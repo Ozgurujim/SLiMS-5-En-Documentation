@@ -114,6 +114,10 @@ status open
 \end_inset
 
 
+\family sans
+\series bold
+\size largest
+SENAYAN LIBRARY MANAGEMENT SYSTEM DOCUMENTATION
 \end_layout
 
 \begin_layout Standard
@@ -277,6 +281,7 @@ Sysconfig
 status open
 
 \begin_layout Plain Layout
+
 sysconfig.local.inc.php
 \end_layout
 
@@ -301,6 +306,7 @@ If, in the file
 status open
 
 \begin_layout Plain Layout
+
 sysconfig.inc.php
 \end_layout
 
@@ -311,6 +317,7 @@ sysconfig.inc.php
 status open
 
 \begin_layout Plain Layout
+
 $sysconf['ucs']['enable'] = false;
 \end_layout
 
@@ -326,6 +333,7 @@ And in the file
 status open
 
 \begin_layout Plain Layout
+
 sysconfig.local.inc.php
 \end_layout
 
@@ -336,6 +344,7 @@ sysconfig.local.inc.php
 status open
 
 \begin_layout Plain Layout
+
 $sysconf['ucs']['enable'] = true;
 \end_layout
 
@@ -471,6 +480,7 @@ As readers find errors and think of possible improvements in this document
 status collapsed
 
 \begin_layout Plain Layout
+
 http://forum.slims.web.id )
 \end_layout
 

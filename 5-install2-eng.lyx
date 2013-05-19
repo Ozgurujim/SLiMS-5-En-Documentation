@@ -61,14 +61,10 @@
 \begin_body
 
 \begin_layout Section
-
-\lang bahasa
 Installing Portable Senayan in Windows
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Portable Senayan for Windows (Psenayan) is a software package that consists
  of the Senayan application, Apache Web Server, PHP scripting engine, MySQL
  database server and PHPMyAdmin, with the YAZ library that is used to enable
@@ -81,8 +77,6 @@ Portable Senayan for Windows (Psenayan) is a software package that consists
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -91,8 +85,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/instalasi-12.png
 	scale 50
@@ -103,8 +95,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -124,14 +114,11 @@ Copy file psenayan*.zip to the root directory/folder
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Copy the file 
 \begin_inset Flex URL
 status collapsed
 
 \begin_layout Plain Layout
-
 psenayan-x.x.zip
 \end_layout
 
@@ -142,7 +129,6 @@ psenayan-x.x.zip
 status open
 
 \begin_layout Plain Layout
-
 http://slims.web.id
 \end_layout
 
@@ -160,8 +146,6 @@ http://slims.web.id
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -170,8 +154,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/instalasi-13.png
 	scale 35
@@ -182,8 +164,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -203,8 +183,6 @@ Extract psenayan*.zip
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Extract the file psenayan*.zip straight to the root directory.
  If you have installed a utility to extract compressed files such as Winzip
  or Winrar, usually right-clicking on the file will bring up the option
@@ -214,8 +192,6 @@ Extract the file psenayan*.zip straight to the root directory.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -224,8 +200,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/instalasi-14.png
 	scale 60
@@ -236,8 +210,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -257,16 +229,12 @@ Folder psenayan has been formed
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The folder "psenayan" will automatically be created .
  Next go into that directory 
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -275,8 +243,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/instalasi-15.png
 	scale 60
@@ -287,8 +253,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -308,16 +272,12 @@ Files and folders contained in "psenayan"
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Now run the file "apache_start.bat" and then "mysql_start.bat".
  Always run file "apache_start.bat" first (double-click on the file).
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -326,8 +286,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/instalasi-16.png
 	scale 50
@@ -338,8 +296,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -360,8 +316,6 @@ In some versions of Windows, a firewall message will appear when apache
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 When Windows Firewall is active, it will usually pop-up "Windows Security
  Alert ".
  Click the "Unblock" option to allow the computer to run the Apache web
@@ -370,8 +324,6 @@ When Windows Firewall is active, it will usually pop-up "Windows Security
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -380,8 +332,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/instalasi-17.png
 	scale 90
@@ -392,8 +342,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -413,8 +361,6 @@ Apache has started OK
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 If the Apache process is successfully enabled, a window will appear with
  the message "Apache 2 is starting ".
  Leave the window open.
@@ -422,8 +368,6 @@ If the Apache process is successfully enabled, a window will appear with
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -432,8 +376,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/instalasi-18.png
 	scale 50
@@ -444,8 +386,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -466,8 +406,6 @@ In some versions of Windows, a firewall message will appear when MySQL is
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Next, activate the mysql database server by double-clicking on the file
  "Mysql_start.bat".
  If Windows Firewall is active, a popup "Windows Security Alert" will usually
@@ -478,8 +416,6 @@ Next, activate the mysql database server by double-clicking on the file
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -488,8 +424,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/instalasi-19.png
 	scale 50
@@ -500,8 +434,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -521,8 +453,6 @@ MySQL has started OK
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 If the MySQL server is successfully activated, a window will appear with
  the message "ready for connections ".
  Leave the window open.
@@ -530,8 +460,6 @@ If the MySQL server is successfully activated, a window will appear with
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -540,8 +468,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/instalasi-20.png
 	scale 45
@@ -552,8 +478,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -573,14 +497,11 @@ Senayan application can now be used
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Open your browser and access 
 \begin_inset Flex URL
 status collapsed
 
 \begin_layout Plain Layout
-
 http://localhost
 \end_layout
 
@@ -608,7 +529,6 @@ admin
 status collapsed
 
 \begin_layout Plain Layout
-
 http://localhost/pma/
 \end_layout
 

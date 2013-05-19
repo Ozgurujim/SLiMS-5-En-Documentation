@@ -62,8 +62,6 @@
 \begin_body
 
 \begin_layout Chapter
-
-\lang bahasa
 Membership
 \end_layout
 
@@ -71,7 +69,6 @@ Membership
 
 \emph on
 \color blue
-\lang bahasa
 Your library is your portrait.
  - Holbrook Jackson
 \begin_inset Newline newline
@@ -81,15 +78,11 @@ Your library is your portrait.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The Membership module is used to manage the members' data .
  The menu sections are as follows:
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -101,8 +94,6 @@ View Member List
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This is used to view the members who have registered in the system.
  Information shown is the Member ID, Member Name, Membership Type, Email
  and Last update.
@@ -111,8 +102,6 @@ This is used to view the members who have registered in the system.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -120,8 +109,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/member-list.png
 	scale 60
@@ -132,8 +119,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -153,8 +138,6 @@ List members data
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 If any user's membership has expired, we can extend it by clicking the EDIT
  menu.
  Membership renewal can be done automatically or manually.
@@ -165,8 +148,6 @@ If any user's membership has expired, we can extend it by clicking the EDIT
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -174,8 +155,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/member-extend.png
 	scale 70
@@ -186,8 +165,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -207,8 +184,6 @@ Renew membership
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 As well, extensions can also be done in bulk.
  The trick is to click 
 \begin_inset Quotes eld
@@ -231,8 +206,6 @@ Extend Selected Member (s)
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -240,8 +213,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/mem-exten-massal1.png
 	scale 150
@@ -252,8 +223,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -274,8 +243,6 @@ Perpanjang Keanggotaan Massal
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -283,8 +250,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/mem-exten-massal2.png
 	scale 150
@@ -295,8 +260,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -316,8 +279,6 @@ Bulk Membership Renewal
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -329,8 +290,6 @@ Add New Member
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This provides the facility to add new members to the data in the Senayan
  system.
  Members' information included are: Member ID (ID -barcode/RFID for the
@@ -349,8 +308,6 @@ This provides the facility to add new members to the data in the Senayan
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This form also provides the feature Pending Membership.
  If Pending Membership is checked, then that member will not be able to
  borrow, although their membership is still active.
@@ -360,8 +317,6 @@ This form also provides the feature Pending Membership.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -369,8 +324,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/member-add.png
 
@@ -380,8 +333,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -401,8 +352,6 @@ Add New Member Form
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Commencing with SLiMS-5, SLiMS has a new feature associated with membership.
  The new feature is the capacity to take photos of members and directly
  store them in the SLiMS application .
@@ -413,8 +362,6 @@ Commencing with SLiMS-5, SLiMS has a new feature associated with membership.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -422,8 +369,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/member-foto.png
 
@@ -433,8 +378,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -454,16 +397,12 @@ Membership Photos feature
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Based on the picture above, SLiMS provides two choices: take the direct
  image (pictured above) that facilitate members who forget to bring a digital
  photo, or upload an existing file photo.
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -475,8 +414,6 @@ Member Type
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This defines the types of membership.
  The type of membership controls Loan Limit (limit number of borrowed copies),
  Loan Period (the length of a loan), Reserve (whether reservations can be
@@ -488,8 +425,6 @@ This defines the types of membership.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -497,8 +432,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/member-type.png
 	scale 120
@@ -509,8 +442,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -530,8 +461,6 @@ Member Type
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -543,16 +472,12 @@ Import Data
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This menu is used to retrieve member data from outside applications to put
  into Senayan applications.
  The data format of the import is .csv .
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -564,21 +489,15 @@ Export Data
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This menu is used to retrieve the membership data within the Senayan application
  , and the result is data output as a .csv file
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 An example csv data record of a member is:
 \end_layout
 
 \begin_layout LyX-Code
-
-\lang bahasa
 "M001","Hendro Wicaksono","0","Mahasiswa","hendrowicaksono@yahoo.com",
 \begin_inset Newline newline
 \end_inset
@@ -596,8 +515,6 @@ An example csv data record of a member is:
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -605,8 +522,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/member-eksport.png
 	scale 130
@@ -617,8 +532,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -639,8 +552,6 @@ Member Export
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -648,8 +559,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/member-import.png
 	scale 130
@@ -660,8 +569,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -681,8 +588,6 @@ Member Import
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -694,8 +599,6 @@ Member Card
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This menu is used to print the member card.
  Printing method is similar to barcode label printing.
  The information contained in this membership card is: ID, Name, Member
@@ -704,8 +607,6 @@ This menu is used to print the member card.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -713,8 +614,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/mem-car.png
 	scale 60
@@ -725,8 +624,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -818,8 +715,6 @@ The result of this modification is as follows (can be seen in Add New Member):
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -827,8 +722,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/member-custom.png
 	scale 60
@@ -839,8 +732,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout

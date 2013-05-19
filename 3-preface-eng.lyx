@@ -61,8 +61,6 @@
 \begin_body
 
 \begin_layout Chapter
-
-\lang bahasa
 Introduction
 \end_layout
 
@@ -74,7 +72,6 @@ Introduction
 
 \emph on
 \color blue
-\lang bahasa
 No furniture so charming as books.
  - Sydney Smith
 \begin_inset Newline newline
@@ -84,8 +81,6 @@ No furniture so charming as books.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 SLiMS is Open Source Software (OSS) developed to meet the needs of web-based
  library automation, from small to large scale.
  Because it is full-featured and still actively developed, SLiMS is suitable
@@ -98,7 +93,6 @@ SLiMS is Open Source Software (OSS) developed to meet the needs of web-based
 status open
 
 \begin_layout Plain Layout
-
 http://www.php.net
 \end_layout
 
@@ -109,7 +103,6 @@ http://www.php.net
 status open
 
 \begin_layout Plain Layout
-
 http://www.mysql.com
 \end_layout
 
@@ -119,8 +112,6 @@ http://www.mysql.com
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 SLiMS itself is developed on the platform of GNU / Linux and is running
  well on other platforms such as Unix * BSD and Windows.
  SLiMS is made up of web-based applications with cross-platform considerations
@@ -130,7 +121,6 @@ SLiMS itself is developed on the platform of GNU / Linux and is running
 status open
 
 \begin_layout Plain Layout
-
 www.php.net
 \end_layout
 
@@ -141,7 +131,6 @@ www.php.net
 status open
 
 \begin_layout Plain Layout
-
 www.mysql.com
 \end_layout
 
@@ -160,7 +149,6 @@ www.mysql.com
 status open
 
 \begin_layout Plain Layout
-
 http://www.gnu.org/licenses/gpl-3.0.html
 \end_layout
 
@@ -171,8 +159,6 @@ http://www.gnu.org/licenses/gpl-3.0.html
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 SLiMS version 1 and 2 were not released to the public because it was still
  being tested and was being refined.
  Since version 3, SLiMS has been considered stable enough to be released
@@ -185,7 +171,6 @@ SLiMS version 1 and 2 were not released to the public because it was still
 status open
 
 \begin_layout Plain Layout
-
 http://slims.web.id
 \end_layout
 
@@ -195,14 +180,10 @@ http://slims.web.id
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 SLiMS features include: 
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Online Public Access Catalog (OPAC) displays thumbnails on-the-fly.
  The thumbnail is useful for displaying the book cover.
  OPAC modes available include simple search (Simple Search) and advanced
@@ -210,94 +191,66 @@ Online Public Access Catalog (OPAC) displays thumbnails on-the-fly.
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Details are also available in XML (Extensible Markup Language) record format,
  standard MODS for web service needs.
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Features Z39.50, SRU and p2p services to enable copy-cataloging from various
  libraries.
  
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Efficient data management to minimize repetition of bibliographic data.
  
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Management master files for referential data such as GMD (General Material
  Designation), Collection Type , Publisher, Author, Location, Suppliers,
  and others.
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Circulation with the following features: 
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-
-\lang bahasa
 Transactions of borrowing and returning
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Reserve collection 
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Flexible lending rules 
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Information on delays and fines
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
-
-\lang bahasa
 Membership management
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Collection inventory (stocktaking)
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Reports and statistics
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Management of periodicals
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Supports the management of multimedia documents (.FLV, .MP3) and digital documents
 , particularly PDFs, in 
 \shape italic
@@ -307,8 +260,6 @@ streaming
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 SLiMS supports a variety of languages ​​including formats that do not Latin
  scripts.
 \end_layout
@@ -331,51 +282,35 @@ Member area, to view and download the collection was and never borrowed.
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 System module with the following features:
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-
-\lang bahasa
 Configure global system
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Management module
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 User Management (library staff) and Access level Groups
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Setting holiday periods
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Creation of automated barcodes
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Backup utilities
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 and various other features that we can not cover in this introduction.
  Please continue reading the following chapters for full documentation.
 \end_layout

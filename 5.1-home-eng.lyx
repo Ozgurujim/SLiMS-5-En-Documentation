@@ -61,8 +61,6 @@
 \begin_body
 
 \begin_layout Chapter
-
-\lang bahasa
 Home
 \end_layout
 
@@ -70,7 +68,6 @@ Home
 
 \emph on
 \color blue
-\lang bahasa
 ”Since it (SLiMS) was originally developed with state funds, the public
  must be able to obtain it freely ” -- (Hendro Wicaksono)
 \begin_inset Newline newline

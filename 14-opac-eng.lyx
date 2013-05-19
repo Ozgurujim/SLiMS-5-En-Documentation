@@ -62,8 +62,6 @@
 \begin_body
 
 \begin_layout Chapter
-
-\lang bahasa
 OPAC (Online Public Access Catalog)
 \end_layout
 
@@ -71,7 +69,6 @@ OPAC (Online Public Access Catalog)
 
 \emph on
 \color blue
-\lang bahasa
 The library is not only a diary of the human race, but marks an act of faith
  in the continuity of humanity.
  --Vartan Gregorian 
@@ -82,8 +79,6 @@ The library is not only a diary of the human race, but marks an act of faith
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The OPAC (Online Public Access Catalog), is a search tool that is targeted
  at the user.
  The OPAC in Senayan consists of Simple Search , Advanced Search , Library
@@ -114,8 +109,6 @@ e, title and author.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 In the OPAC also, there is the capacity to change the interface language.
  The Senayan OPAC has at least 5 languages ​​of instruction, ie Arabic,
  Bahasa Indonesia, English, German and Spanish.
@@ -123,8 +116,6 @@ In the OPAC also, there is the capacity to change the interface language.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -132,8 +123,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/template_default.png
 	scale 32
@@ -144,8 +133,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -166,8 +153,6 @@ OPAC
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -175,8 +160,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/opac_det.png
 	scale 55
@@ -187,8 +170,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -209,8 +190,6 @@ OPAC Detail
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -218,8 +197,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/opac_xml.png
 	scale 40
@@ -230,8 +207,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -251,14 +226,10 @@ OPAC XML
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Custom Field Record List
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 In Senayan stable8, facilities were added to customise appearance and add
  a record field .
  This addition can be done by editing the files contained in the folder
@@ -270,76 +241,54 @@ In Senayan stable8, facilities were added to customise appearance and add
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 // change "0" value to "1" to enable field
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 // $custom_fields['edition'] = array(1, lang_mod_biblio_field_edition);
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 $custom_fields['edition'] = array(0, lang_mod_biblio_field_edition); -->
  to show edition
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 $custom_fields['isbn_issn'] = array(0, lang_mod_biblio_field_isbn); -->
  to display the ISBN
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 $custom_fields['collation'] = array(0, lang_mod_biblio_field_collation);
  --> to show collation
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 $custom_fields['series_title'] = array(0, lang_mod_biblio_field_series);
  --> to show series
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 $custom_fields['call_number'] = array(1, lang_mod_biblio_field_call_number);
  --> to show call number
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The trick is to change the number 0 to number 1 for the extra field(s) you
  wish displayed in the OPAC 
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Display Multimedia
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Multimedia files which are uploaded in the Bibliography module will be displayed
  in the Senayan OPAC module, Here is an example of an .flv file
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -347,8 +296,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/multimed1.png
 	rotateOrigin center
@@ -359,8 +306,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -380,14 +325,10 @@ Multimedia Display
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Display PDF Streaming
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Commencing with Stable13, Senayan has supported the viewing of document
  attachments in the form of streaming.
  To display these, the required Flash Player/plugin must be installed on
@@ -396,8 +337,6 @@ Commencing with Stable13, Senayan has supported the viewing of document
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -405,8 +344,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/opac_pdfstreaming.png
 	scale 40
@@ -418,8 +355,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -439,22 +374,16 @@ PDF Streaming Display
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Boolean Logic in the OPAC 
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Commencing with Senayan3-stable10, the OPAC search system supports boolean
  logic.
  In the search process the operators OR, NOT and AND can be used.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 For example: subject = politic NOT politics, the result is politic without
  invoking politics.
  title = mapping AND author = Dwikorita , the result is a collection of
@@ -471,8 +400,6 @@ mapping
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -480,8 +407,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/boolean.png
 	rotateOrigin center
@@ -492,8 +417,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -513,14 +436,10 @@ Boolean Logic
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Member Area
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Commening with Senayan3-Stable12, Senayan has a Member Area feature.
  The big change in the Member Area occurred in Stable 15/Matoa.
  In this feature members can log in using their member ID and password previousl
@@ -533,8 +452,6 @@ y determined by the librarian in the member data record.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -542,8 +459,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/opac-memberlogin.png
 	scale 120
@@ -555,8 +470,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -577,8 +490,6 @@ Member Login Menu Display
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -586,8 +497,6 @@ status collapsed
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/opac-login-logout.png
 	scale 130
@@ -599,8 +508,6 @@ status collapsed
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -621,8 +528,6 @@ Tampilan identitas Anggota yang Log-in
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -630,8 +535,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/opac-memberarea.png
 	scale 80
@@ -643,8 +546,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -665,8 +566,6 @@ Member Information, Loan and borrowing history + download list
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -674,8 +573,6 @@ status collapsed
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/opac-memberarea1.png
 	scale 80
@@ -687,8 +584,6 @@ status collapsed
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -721,8 +616,6 @@ The method of filling it is, by heading to the OPAC page, and displaying
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -730,8 +623,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/opac-keranjang-depan.png
 	scale 80
@@ -743,8 +634,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -772,8 +661,6 @@ A display as above appears, if you login as a member.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -781,8 +668,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/opac-keranjang-isi.png
 	scale 80
@@ -794,8 +679,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -816,8 +699,6 @@ Your Title Basket contents
 
 \begin_layout Standard
 \align left
-
-\lang bahasa
 To send requests to the Librarian, please click "Reserve added to the basket."
  Then if successful a message will appear as follows
 \begin_inset Foot
@@ -835,8 +716,6 @@ Requests for delivery go via email: please see the email settings in the
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -844,8 +723,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/opac-sent-pesanan.png
 	scale 80
@@ -857,8 +734,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -878,15 +753,11 @@ Requests sent to librarians e-mail
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Librarians will receive a submission email as follows:
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -894,8 +765,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/opac-reserv-email.png
 	scale 70
@@ -907,8 +776,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout

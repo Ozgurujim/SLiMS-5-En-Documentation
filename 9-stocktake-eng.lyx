@@ -62,8 +62,6 @@
 \begin_body
 
 \begin_layout Chapter
-
-\lang bahasa
 StockTake
 \end_layout
 
@@ -71,7 +69,6 @@ StockTake
 
 \emph on
 \color blue
-\lang bahasa
 I have always imagined that Paradise will be a kind of library.
  --Jorge Luis Borges
 \begin_inset Newline newline
@@ -81,8 +78,6 @@ I have always imagined that Paradise will be a kind of library.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The StockTake Module is a facility in SLiMS to help librarians conduct stock-tak
 ing.
  When the stock-taking process begins, all items except those being borrowed
@@ -92,8 +87,6 @@ ing.
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -105,8 +98,6 @@ Stock Take History
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Contains reports of when stock-taking has been done.
  Information in this menu are: StockTake Name, Start Date, End Date, The
  report contains links to a document in .html form for each stock-take report
@@ -115,8 +106,6 @@ Contains reports of when stock-taking has been done.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -124,8 +113,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/stocktake_history.png
 	scale 70
@@ -136,8 +123,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -157,8 +142,6 @@ StockTake History
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -170,50 +153,36 @@ Initialize
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The Initialize menu is used to start stock-taking.
  In this menu, there are the following sub-menus:
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 StockTake Name: the name of the stock-taking activities undertaken.
  Customize the name to your liking.
  This field MUST be filled.
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 GMD: (See the module guide Master File -> GMD (below Authority Files)).
  
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Collection Type: (See the module guide Master File -> Collection Type (under
  Lookup Files)).
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Location: (See the module guide Master File -> Location (below Authority
  Files)).
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Shelf Location: referring to the information item in the Bibliography module.
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Classification: Referring to the classification field in the Bibliography
  module.
  For defining a classification range use the wildcard (*), For example,
@@ -225,8 +194,6 @@ Classification: Referring to the classification field in the Bibliography
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -234,8 +201,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/stocktake_initilaize.png
 	scale 60
@@ -246,8 +211,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -268,8 +231,6 @@ Initializing
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -277,8 +238,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/stocktake_initialized.png
 	scale 50
@@ -289,8 +248,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -310,8 +267,6 @@ Initializing process
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 After the Initialization is done, the Current StockTake menu and StockTake
  Report will serve as menus for stock-take activities, coupled with the
  navigation menu to be used to conduct a stock-take along with the StockTake
@@ -320,8 +275,6 @@ After the Initialization is done, the Current StockTake menu and StockTake
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -333,8 +286,6 @@ Current Stock Take
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This menu is the main menu for doing a stock-take.
  It is used to restore the status of library collections that are considered
  lost by the system, In this menu, item id (barcode number) is the main
@@ -345,8 +296,6 @@ This menu is the main menu for doing a stock-take.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Commencing with version stable11, there is a feature 
 \begin_inset Quotes eld
 \end_inset
@@ -363,8 +312,6 @@ List stocktakes by:
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -372,8 +319,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/stocktake_current3.png
 	scale 50
@@ -384,8 +329,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -405,8 +348,6 @@ Current StockTake
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -418,8 +359,6 @@ StockTake Report
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Use this menu to see the results of the activities that have been performed
  in stock-take.
  The form of the report contains information about the number of items checked,
@@ -429,8 +368,6 @@ Use this menu to see the results of the activities that have been performed
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -438,8 +375,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/stocktake_report1.png
 	scale 50
@@ -450,8 +385,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -471,8 +404,6 @@ StockTake Report
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -484,8 +415,6 @@ Finish StockTake
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Click on this link if you have finished stock-taking.
  In the menu, there is a field labelled Purge Lost Item.
  If we give a checkmark on Yes, the data items in the collection that are
@@ -494,8 +423,6 @@ Click on this link if you have finished stock-taking.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -503,8 +430,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/stocktake_finish.png
 	scale 70
@@ -515,8 +440,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -536,8 +459,6 @@ Finish StockTake
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -549,16 +470,12 @@ Current Lost Items
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The contents of this menu is a list of items that are considered missing
  at the time of stock-taking, in addition to items on loan.
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -566,8 +483,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/stocktake_current_lost.png
 	scale 80
@@ -578,8 +493,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -599,8 +512,6 @@ Current Lost Items
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -612,15 +523,11 @@ StockTake Log
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The function of this menu is to find log records when doing the stock-take
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -628,8 +535,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/stocktake_log.png
 	scale 55
@@ -640,8 +545,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -661,8 +564,6 @@ StockTake Log
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -674,8 +575,6 @@ Resynchronize
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This menu is used to synchronize newly edited bibliographic data during
  ongoing activities to take stock of existing bibliographic data using the
  stock-take module.
@@ -687,8 +586,6 @@ This menu is used to synchronize newly edited bibliographic data during
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -696,8 +593,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/stocktake_resyncronize.png
 	scale 60
@@ -708,8 +603,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -729,8 +622,6 @@ Resynchronise
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -742,8 +633,6 @@ Upload List
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This menu is used to perform automated stock-take using a data file listing
  the items.
  To be able to use the Upload List, first the data items should be exported
@@ -752,8 +641,6 @@ This menu is used to perform automated stock-take using a data file listing
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -761,8 +648,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/stock-fileuploadlist.png
 	scale 80
@@ -773,8 +658,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -795,8 +678,6 @@ Sample .txt File for Upload List
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -804,8 +685,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/stock-uploadlist.png
 	scale 70
@@ -816,8 +695,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout

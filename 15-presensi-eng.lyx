@@ -79,8 +79,6 @@ The module displays are as follows:
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -89,8 +87,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/absen-1.png
 	scale 70
@@ -102,8 +98,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -152,7 +146,6 @@ For the safety and validity of the visitor attendance, the Visitor Counter
 status open
 
 \begin_layout Plain Layout
-
 /senayan/lib/contents/visitor.inc.php
 \end_layout
 

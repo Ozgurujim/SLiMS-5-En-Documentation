@@ -61,40 +61,29 @@
 \begin_body
 
 \begin_layout Section
-
-\lang bahasa
 Installation using the Installer
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 With SLiMS Meranti, in addition to the manual installation (the first way),
  installation can also be performed using the SLiMS Installer features.
  The steps to use the SLiMS installer are:
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Create a database
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Create a username and password for the database 
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Call SLiMS with a webbrowser, e.g 
 \begin_inset Flex URL
 status collapsed
 
 \begin_layout Plain Layout
-
 http://localhost/slims-slims5/
 \end_layout
 
@@ -105,7 +94,6 @@ http://localhost/slims-slims5/
 status collapsed
 
 \begin_layout Plain Layout
-
 http://localhost/slims-slims5/install/index.php
 \end_layout
 
@@ -117,15 +105,11 @@ http://localhost/slims-slims5/install/index.php
 
 \begin_deeper
 \begin_layout Standard
-
-\lang bahasa
 The appearance of the steps are as follows:
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -134,8 +118,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/inst-1.png
 	scale 45
@@ -146,8 +128,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -167,8 +147,6 @@ Installer Feature
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Click on Let's Start The Installation
 \end_layout
 
@@ -183,8 +161,6 @@ Fill in the host, database name, username and password that will be used
 \begin_deeper
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -193,8 +169,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/inst-2.png
 	scale 45
@@ -205,8 +179,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -233,8 +205,6 @@ Click Continue.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -243,8 +213,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/inst-3.png
 	scale 45
@@ -255,8 +223,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout

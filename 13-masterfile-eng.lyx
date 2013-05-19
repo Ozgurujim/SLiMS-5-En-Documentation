@@ -62,8 +62,6 @@
 \begin_body
 
 \begin_layout Chapter
-
-\lang bahasa
 Master File Topic
 \end_layout
 
@@ -71,7 +69,6 @@ Master File Topic
 
 \emph on
 \color blue
-\lang bahasa
 When I got my library card, that's when my life began.
  --Rita Mae Brown
 \begin_inset Newline newline
@@ -81,56 +78,40 @@ When I got my library card, that's when my life began.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 In this module we can enter the master file data that can be used as a master
  in bibliographic data entry.
  The data that can be defined in this Master File module is:
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 GMD General Material Designation – The physical form of the media item 
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Publisher* – Publisher name
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Supplier – Supplier is a supplier of items being placed in the collection
  e.g a pareticular bookstore
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Statement of Responsibility – persons or bodies responsible for the the
  creation of the item
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Author* – author's name and the type of author (individual or group)
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Subject* – the topic/subject, classification code, subject type, and authority
  files source.
 \end_layout
 
 \begin_layout Quote
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -149,8 +130,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -170,21 +149,15 @@ Master File-Subject
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Location – location code and the name of the location where the item is
  placed
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Place – contains the place of publication
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Item Status – contains the status of the item (Repair, On Loan, Reserved).
  Each Item Status category contains the Item Status Code , Item Status Name
  and Rules.
@@ -194,54 +167,40 @@ Item Status – contains the status of the item (Repair, On Loan, Reserved).
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Collection Type – the type of item collections owned by the library, for
  example: Textbook, Reference
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Doc.
  Language – the language used by the document.
  Eg: Indonesian, English, French, Javanese etc..
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Label – To provide specific information about the bibliographic item.
  labels can be defined in the Master File menu.
  By default Senayan has three labels: New Title, Favorite Title and Multimedia.
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Frequency – contains the time/frequency of publications published ( for
  serial publications )
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 * In addition to being entered through the Master Files, Publisher, Author
  and Subject data can also be entered when loading bibliographic data e.g
  MARC data.
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 Commencing with Senayan3-Stable15/Matoa there are also new features grouped
  in Tools.
  These features include Orphaned Author and Orphaned Subject.
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 Both these features are used to refine the author/authors and subjects that
  are not used in the SLiMS database.
  When it has been filtered by clicking Orphaned Author or Orphaned Subject,
@@ -251,8 +210,6 @@ Both these features are used to refine the author/authors and subjects that
 
 \begin_layout Quote
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -271,8 +228,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout

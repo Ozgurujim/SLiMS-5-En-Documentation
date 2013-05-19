@@ -62,8 +62,6 @@
 \begin_body
 
 \begin_layout Chapter
-
-\lang bahasa
 Tips and Tricks
 \end_layout
 
@@ -71,7 +69,6 @@ Tips and Tricks
 
 \emph on
 \color blue
-\lang bahasa
 Knowledge is free at the library.
  Just bring your own container.
  - Unknown
@@ -90,7 +87,6 @@ OAI-PMH has been present in SLiMS since SLiMS-5.
 status collapsed
 
 \begin_layout Plain Layout
-
 http://garuda.kemdiknas.go.id.
 \end_layout
 
@@ -128,8 +124,6 @@ Setting OAI-PMH features that 'enable' value to = "true".
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -137,8 +131,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/syscon-oai-set.png
 	scale 40
@@ -149,8 +141,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -177,7 +167,6 @@ Convey the OAI-PMH service URL to stakeholders.
 status open
 
 \begin_layout Plain Layout
-
 http://slimsdomainname/oai.php?verb=ListRecords&metadataPrefix=oai_dc
 \end_layout
 
@@ -188,8 +177,6 @@ http://slimsdomainname/oai.php?verb=ListRecords&metadataPrefix=oai_dc
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -197,8 +184,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/tips-oai-detail.png
 	scale 40
@@ -209,8 +194,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -230,22 +213,16 @@ SLiMS OAI-PMH URL
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Integration of SLiMS OPAC and Drupal
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This is how to enable the slims-drupal module in your Drupal installation
  :
 \end_layout
 
 \begin_layout Enumerate
 \align left
-
-\lang bahasa
 The Drupal module can be tried by downloading the module file: 
 \family typewriter
 http://slims.web.id/download/slims-drupal-1.0.zip
@@ -255,8 +232,6 @@ http://slims.web.id/download/slims-drupal-1.0.zip
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Extract, and put in the directory
 \family typewriter
  sites/all/modules
@@ -266,8 +241,6 @@ Extract, and put in the directory
 
 \begin_layout Enumerate
 \align left
-
-\lang bahasa
 Once enabled do not forget to enter the URL:
 \family typewriter
  http://localhost/drupal/admin/settings/slims
@@ -276,8 +249,6 @@ Once enabled do not forget to enter the URL:
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The slims-drupal module is a module that integrates your Drupal installation
  with the SLiMS installation.
  That way, you will have a more comprehensive site for library needs that
@@ -286,8 +257,6 @@ The slims-drupal module is a module that integrates your Drupal installation
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -295,8 +264,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/tips-drupal.png
 	scale 80
@@ -307,8 +274,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -328,8 +293,6 @@ SLiMS Drupal
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Enjoy! Do not forget, if you find a bug in this module, please report it
  immediately to the developer through the SLiMS user forum, 
 \family typewriter
@@ -338,7 +301,6 @@ Enjoy! Do not forget, if you find a bug in this module, please report it
 status collapsed
 
 \begin_layout Plain Layout
-
 http://slims.web.id/forum
 \end_layout
 
@@ -348,22 +310,17 @@ http://slims.web.id/forum
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Size settings, barcode labels, note cards and borrowing members
 \end_layout
 
 \begin_layout Standard
 \align left
-
-\lang bahasa
 Setting the size of barcodes and labeling can be done by editing the file
  printed_settings.inc.php , located in: 
 \begin_inset Flex URL
 status open
 
 \begin_layout Plain Layout
-
 /senayan3-stable7/admin/admin_template/
 \end_layout
 
@@ -373,78 +330,66 @@ status open
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 In this file the lines of code are as follows:
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 // label print settings
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 /* measurement in cm */
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $page_width = 50;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $page_height = 30;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $page_margin = 0.2;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $items_per_row = 3;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $items_margin = 0.05;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $box_width = 8;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $box_height = 3.3;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $include_header_text = 1; // change to 0 if dont want to use header in each
  label
 \end_layout
@@ -452,7 +397,6 @@ $include_header_text = 1; // change to 0 if dont want to use header in each
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $header_text = ''; // keep empty if you want to use Library Name as a header
  text
 \end_layout
@@ -460,70 +404,60 @@ $header_text = ''; // keep empty if you want to use Library Name as a header
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 // item barcode print settings
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 /* measurement in cm */
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcode_page_width = 50;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcode_page_height = 30;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcode_page_margin = 0.2;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcode_items_per_row = 3;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcode_items_margin = 0.1;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcode_box_width = 7;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcode_box_height = 5;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcode_include_header_text = 1; // change to 0 if dont want to use header
  in each barcode
 \end_layout
@@ -531,7 +465,6 @@ $barcode_include_header_text = 1; // change to 0 if dont want to use header
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcode_cut_title = 50; // maximum characters in title to appear in each
  barcode.
  change to 0 if you dont want the title cutted
@@ -540,7 +473,6 @@ $barcode_cut_title = 50; // maximum characters in title to appear in each
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcode_header_text = ''; // keep empty if you want to use Library Name
  as a header text
 \end_layout
@@ -548,126 +480,108 @@ $barcode_header_text = ''; // keep empty if you want to use Library Name
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 // member card print settings
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 /* measurement in cm */
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $card_page_width = 50;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $card_page_height = 50;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $card_page_margin = 0.2;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $card_items_per_row = 2;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $card_items_margin = 0.1;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $card_box_width = 11;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $card_box_height = 6;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $card_header_text = $sysconf['library_name'];
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $card_photo_width = 3;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $card_photo_height = 3;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 // barcode generator print settings
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcodegen_page_width = 29.7;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcodegen_page_height = 21;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcodegen_page_margin = 0.2;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcodegen_items_margin = 0.05;
 \end_layout
 
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 $barcodegen_include_border = 0;
 \end_layout
 
@@ -734,20 +648,16 @@ $receipt_titleLength = 100;
 \begin_layout Standard
 
 \family typewriter
-\lang bahasa
 ?>
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 If you want the settings for the barcode, label and members card to differ
  in each template, then you can copy the file 
 \begin_inset Flex URL
 status collapsed
 
 \begin_layout Plain Layout
-
 print_settings.inc.php
 \end_layout
 
@@ -757,20 +667,15 @@ print_settings.inc.php
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Searching in the OPAC with keywords of at least 3 letters?
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Open the my.ini file located in
 \begin_inset Flex URL
 status collapsed
 
 \begin_layout Plain Layout
-
 /mysql/my.ini
 \end_layout
 
@@ -780,26 +685,18 @@ status collapsed
 \end_layout
 
 \begin_layout LyX-Code
-
-\lang bahasa
 ft_min_word_len=3 
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Then save the file and restart the mysql server.
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Open the Senayan database with phpmyadmin.
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Click biblio table, then see the Indexes on the bottom.
  You will find the keyname title_ft the title field.
  Clear lines by clicking X.
@@ -807,8 +704,6 @@ Click biblio table, then see the Indexes on the bottom.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -816,8 +711,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/3.png
 
@@ -827,8 +720,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -848,16 +739,12 @@ Deleting index title_ft
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Then in the "Create an index on" field, enter 1 and click Go, A display
  appears as follows:
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -865,8 +752,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/4.png
 
@@ -876,8 +761,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -897,15 +780,11 @@ MySql Index Additions
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Fill in the blank field above to become like this:
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -913,8 +792,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/2.png
 
@@ -924,8 +801,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -945,8 +820,6 @@ Results of MySql Index Additions
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 You needed to change, as above, : Index name, Index type and Field.
  Click SAVE.
  Restart your Mysql and then Senayan OPAC is able to search by 3 character
@@ -958,8 +831,6 @@ You needed to change, as above, : Index name, Index type and Field.
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Tutorial on Upgrading a Senayan Library Application
 \end_layout
 
@@ -1000,7 +871,6 @@ Secondly, here are the ways of technically upgrading:
 status open
 
 \begin_layout Plain Layout
-
 http://localhost/phpmyadmin
 \end_layout
 
@@ -1176,7 +1046,6 @@ Click Browse
 status open
 
 \begin_layout Plain Layout
-
 upgrade_stable3.sql
 \end_layout
 
@@ -1187,7 +1056,6 @@ upgrade_stable3.sql
 status open
 
 \begin_layout Plain Layout
-
 upgrade_stable4.sql
 \end_layout
 
@@ -1199,7 +1067,6 @@ upgrade_stable4.sql
 status open
 
 \begin_layout Plain Layout
-
 ../upgrade/old_sql/..
 \end_layout
 
@@ -1261,7 +1128,6 @@ Select the data to upgrade
 status open
 
 \begin_layout Plain Layout
-
 sysconfig.inc.php
 \end_layout
 
@@ -1273,7 +1139,6 @@ sysconfig.inc.php
 status open
 
 \begin_layout Plain Layout
-
 sysconfig.inc.php
 \end_layout
 
@@ -1285,7 +1150,6 @@ sysconfig.inc.php
 status collapsed
 
 \begin_layout Plain Layout
-
 mysqldump
 \end_layout
 
@@ -1296,7 +1160,6 @@ mysqldump
 status open
 
 \begin_layout Plain Layout
-
 sysconfig.inc.php
 \end_layout
 
@@ -1429,42 +1292,30 @@ Display latest version of Senayan
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Changing and adding information to the Library Information in OPAC
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Commencing with Senayan3-stable9 these tips have moved to the menu: System
  -> Content
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Changing and adding information on Help on Search
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Commencing Senayan3-stable9 these tips have moved to the menu: System ->
  Content
 \end_layout
 
 \begin_layout Section
 \noindent
-
-\lang bahasa
 Change/Make a new Introduction to the language
 \end_layout
 
 \begin_layout Itemize
 \noindent
-
-\lang bahasa
 Commencing with Senayan3-stable11, we use gettext function in PHP to replace
  the constant value in the previous language file (eg indonesia.lang.inc.php
  or english.lang.inc.php ).
@@ -1473,8 +1324,6 @@ Commencing with Senayan3-stable11, we use gettext function in PHP to replace
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 The following instructions provide only a brief instruction to increase
  language translation in Senayan.
  A more complete explanation of the the way to alter language in many applicatio
@@ -1487,7 +1336,6 @@ ns can be found at:
 status open
 
 \begin_layout Plain Layout
-
 http://carsonified.com/blog/features/webapps/give-your-web-
 \end_layout
 
@@ -1502,7 +1350,6 @@ http://carsonified.com/blog/features/webapps/give-your-web-
 status open
 
 \begin_layout Plain Layout
-
 app-international-appeal/
 \end_layout
 
@@ -1521,7 +1368,6 @@ and in
 status open
 
 \begin_layout Plain Layout
-
 http://carsonified.com/blog/dev/give-your-web-app-international-
 \end_layout
 
@@ -1536,7 +1382,6 @@ http://carsonified.com/blog/dev/give-your-web-app-international-
 status open
 
 \begin_layout Plain Layout
-
 appeal-part-ii/
 \end_layout
 
@@ -1546,21 +1391,16 @@ appeal-part-ii/
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 The first step is to download the program poedit
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-
-\lang bahasa
 Download poedit at
 \begin_inset Flex URL
 status open
 
 \begin_layout Plain Layout
-
 http://www.poedit.net/
 \end_layout
 
@@ -1572,22 +1412,16 @@ http://www.poedit.net/
 
 \end_deeper
 \begin_layout Enumerate
-
-\lang bahasa
 Make a folder/directory for a new "language"
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-
-\lang bahasa
 Open the directory senayan3/lib/lang/locale
 \end_layout
 
 \begin_layout Enumerate
 \align left
-
-\lang bahasa
 Create a folder describing the "language" and the translation.
  Eg en_US stands: for the UK/USA.
  Although it is not completely necessary to use this convention, it would
@@ -1597,7 +1431,6 @@ Create a folder describing the "language" and the translation.
 status collapsed
 
 \begin_layout Plain Layout
-
 http://www.gnu.org/software/gettext
 \end_layout
 
@@ -1608,7 +1441,6 @@ http://www.gnu.org/software/gettext
 status collapsed
 
 \begin_layout Plain Layout
-
 /manual/gettext.html#Usual-Language-Codes
 \end_layout
 
@@ -1619,7 +1451,6 @@ and for the country code:
 status open
 
 \begin_layout Plain Layout
-
 http://www.gnu.org/software/
 \end_layout
 
@@ -1630,7 +1461,6 @@ http://www.gnu.org/software/
 status open
 
 \begin_layout Plain Layout
-
 gettext/manual/gettext.html#Country-Codes
 \end_layout
 
@@ -1640,91 +1470,63 @@ gettext/manual/gettext.html#Country-Codes
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Entry into the new folder and create another folder which is called: LC_MESSAGES
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Suppose that a langauge folder is made ​​, called en_us, so now the last
  directory path will be en_US/ LC_MESSAGES
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-
-\lang bahasa
 Make a CATALOG to create a translation
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-
-\lang bahasa
 Start PoEdit
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Click Menu "File"> "New Catalog"
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-
-\lang bahasa
 Tab "Project info":
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 "Project Name and Version": (Optional) Enter Senayan3
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 "Team": (Optional) Enter the name of your team
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 "Team's email address": (Optional) Enter your email
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 "Language": Select the language you want to translate TO
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 "Country": Select a country for the language
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 "Charset": Use utf-8
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 "Source code charset": Use utf-8
 \end_layout
 
 \begin_layout Itemize
 \align left
-
-\lang bahasa
 "Plural forms": This is a little more complicated.
  If in the language you have only one plural form, then use: nplurals =
  2; plural = n! = 1; For other languages ​​you can find a list of possible
@@ -1733,7 +1535,6 @@ Tab "Project info":
 status open
 
 \begin_layout Plain Layout
-
 http://translate.sourceforge.net
 \end_layout
 
@@ -1744,7 +1545,6 @@ http://translate.sourceforge.net
 status collapsed
 
 \begin_layout Plain Layout
-
 /wiki/l10n/pluralforms
 \end_layout
 
@@ -1754,27 +1554,19 @@ status collapsed
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 "Base Path": Enter: ../../../../../
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 "Paths" (Click the button "New Item"): Enter: .
  (only a dot) 
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Tab "Keyword"
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Add two lines: 
 \begin_inset Newline newline
 \end_inset
@@ -1788,74 +1580,55 @@ _ngettext
 
 \end_deeper
 \begin_layout Enumerate
-
-\lang bahasa
 Press OK and save the file in senayan3/lib/lang/locale/(YOUR LANGUAGE)/LC_MESSAG
 ES with the name of
 \end_layout
 
 \begin_layout LyX-Code
-
-\lang bahasa
 messages.po
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-
-\lang bahasa
 Starting translation:
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-
-\lang bahasa
 First of all you have to collect all the strings to be translated.
  Go to the "Catalog"> "Update from sources" (or simply click on the third
  button from the left in the main window)
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Now begin to translate each line by clicking on it and entering the translations
  at the bottom of the window.
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 When finished go to "File"> "Save" (or press the second button from the
  left)
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-
-\lang bahasa
 Presenting the results of translation
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-
-\lang bahasa
 Open file /senayan3/lib/lang/localisation.php and at the end a line like
  this should be changed/added ( according to the appropriate code and names):
  
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 \begin_inset listings
 lstparams "breaklines=true"
 inline false
 status open
 
 \begin_layout LyX-Code
-
 $available_languages [] = array ( 'xx_XX', _ ( 'NAMA BAHASA INGGRIS'), 'NAMA
  NATIVE Bahasa'); 
 \end_layout
@@ -1867,22 +1640,16 @@ $available_languages [] = array ( 'xx_XX', _ ( 'NAMA BAHASA INGGRIS'), 'NAMA
 
 \end_deeper
 \begin_layout Standard
-
-\lang bahasa
 NOTE
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 When right-clicking on a line, you can see where the context of the (source
  code) string is used.
  
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 If at any time you want to change the translation the same way repeatedly,
  you have to do it one by one because poedit does not support the operation
  search & replace text repeatedly.
@@ -1894,14 +1661,11 @@ If at any time you want to change the translation the same way repeatedly,
 \begin_layout Itemize
 
 \emph on
-\lang bahasa
 A list of words/phrases common in Senayan:
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-
-\lang bahasa
 This is just a small list of words/phrases that are found when translating.
  This list can help to find the best translation of the term "troublesome"
  and maintain consistency in interpreting the use of synonyms.
@@ -1909,8 +1673,6 @@ This is just a small list of words/phrases that are found when translating.
 
 \end_deeper
 \begin_layout Standard
-
-\lang bahasa
 \begin_inset Tabular
 <lyxtabular version="3" rows="43" columns="2">
 <features islongtable="true" longtabularalignment="center">
@@ -1921,16 +1683,6 @@ This is just a small list of words/phrases that are found when translating.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 add => 
 \end_layout
 
@@ -1940,16 +1692,6 @@ add =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 loan => 
 \end_layout
 
@@ -1961,16 +1703,6 @@ loan =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Are You Sure Want to => 
 \end_layout
 
@@ -1980,16 +1712,6 @@ Are You Sure Want to =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Loan Limit => 
 \end_layout
 
@@ -2001,16 +1723,6 @@ Loan Limit =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Authority Files => 
 \end_layout
 
@@ -2020,16 +1732,6 @@ Authority Files =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Location => 
 \end_layout
 
@@ -2041,16 +1743,6 @@ Location =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Authority Type => 
 \end_layout
 
@@ -2060,16 +1752,6 @@ Authority Type =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 login => 
 \end_layout
 
@@ -2081,16 +1763,6 @@ login =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 bibliographic => 
 \end_layout
 
@@ -2100,16 +1772,6 @@ bibliographic =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Lookup Files => 
 \end_layout
 
@@ -2121,16 +1783,6 @@ Lookup Files =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 cant be empty / can not be empty => 
 \end_layout
 
@@ -2140,16 +1792,6 @@ cant be empty / can not be empty =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 make sure => 
 \end_layout
 
@@ -2161,16 +1803,6 @@ make sure =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Call Number => 
 \end_layout
 
@@ -2180,16 +1812,6 @@ Call Number =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 member ID => 
 \end_layout
 
@@ -2201,16 +1823,6 @@ member ID =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 cancel => 
 \end_layout
 
@@ -2220,16 +1832,6 @@ cancel =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Member Type => 
 \end_layout
 
@@ -2241,16 +1843,6 @@ Member Type =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 circulation => 
 \end_layout
 
@@ -2260,16 +1852,6 @@ circulation =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Member Type Name => 
 \end_layout
 
@@ -2281,16 +1863,6 @@ Member Type Name =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 check => 
 \end_layout
 
@@ -2300,16 +1872,6 @@ check =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Membership => 
 \end_layout
 
@@ -2321,16 +1883,6 @@ Membership =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 checkout (items) => 
 \end_layout
 
@@ -2340,16 +1892,6 @@ checkout (items) =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 module => 
 \end_layout
 
@@ -2361,16 +1903,6 @@ module =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Code => 
 \end_layout
 
@@ -2380,16 +1912,6 @@ Code =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 must be set = cant be empty => 
 \end_layout
 
@@ -2401,16 +1923,6 @@ must be set = cant be empty =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Collection Type => 
 \end_layout
 
@@ -2420,16 +1932,6 @@ Collection Type =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 overdue => 
 \end_layout
 
@@ -2441,16 +1943,6 @@ overdue =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 confirm => 
 \end_layout
 
@@ -2460,16 +1952,6 @@ confirm =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 (overdue) fines => 
 \end_layout
 
@@ -2481,16 +1963,6 @@ confirm =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 content => 
 \end_layout
 
@@ -2500,16 +1972,6 @@ content =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Override(Overide) => 
 \end_layout
 
@@ -2521,16 +1983,6 @@ Override(Overide) =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 copies = items => 
 \end_layout
 
@@ -2540,16 +1992,6 @@ copies = items =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 pending => 
 \end_layout
 
@@ -2561,16 +2003,6 @@ pending =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Credit => 
 \end_layout
 
@@ -2580,16 +2012,6 @@ Credit =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 PERMITTED => 
 \end_layout
 
@@ -2601,16 +2023,6 @@ PERMITTED =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 data => 
 \end_layout
 
@@ -2620,16 +2032,6 @@ data =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Place => 
 \end_layout
 
@@ -2641,16 +2043,6 @@ Place =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 database backup => 
 \end_layout
 
@@ -2660,16 +2052,6 @@ database backup =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 previous => 
 \end_layout
 
@@ -2681,16 +2063,6 @@ previous =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Debit => 
 \end_layout
 
@@ -2700,16 +2072,6 @@ Debit =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 privileges => 
 \end_layout
 
@@ -2721,16 +2083,6 @@ privileges =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 due date => 
 \end_layout
 
@@ -2740,16 +2092,6 @@ due date =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 promote(ed) => 
 \end_layout
 
@@ -2761,16 +2103,6 @@ promote(ed) =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 expired => 
 \end_layout
 
@@ -2780,16 +2112,6 @@ expired =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 quick return => 
 \end_layout
 
@@ -2801,16 +2123,6 @@ quick return =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Expiry Date => 
 \end_layout
 
@@ -2820,16 +2132,6 @@ Expiry Date =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Real Name => 
 \end_layout
 
@@ -2841,16 +2143,6 @@ Real Name =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Export XXX Data To CSV format =>
 \end_layout
 
@@ -2860,16 +2152,6 @@ Export XXX Data To CSV format =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Reborrow => 
 \end_layout
 
@@ -2881,16 +2163,6 @@ Reborrow =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 fines => 
 \end_layout
 
@@ -2900,16 +2172,6 @@ fines =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 repository => 
 \end_layout
 
@@ -2921,16 +2183,6 @@ repository =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Forbidden => 
 \end_layout
 
@@ -2940,16 +2192,6 @@ Forbidden =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Required => 
 \end_layout
 
@@ -2961,16 +2203,6 @@ Required =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 frequency => 
 \end_layout
 
@@ -2980,16 +2212,6 @@ frequency =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 reservation => 
 \end_layout
 
@@ -3001,16 +2223,6 @@ reservation =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 gmd => 
 \end_layout
 
@@ -3020,16 +2232,6 @@ gmd =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 return => 
 \end_layout
 
@@ -3041,16 +2243,6 @@ return =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 group => 
 \end_layout
 
@@ -3060,16 +2252,6 @@ group =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 section => 
 \end_layout
 
@@ -3081,16 +2263,6 @@ section =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 history => 
 \end_layout
 
@@ -3100,16 +2272,6 @@ history =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 stock take => 
 \end_layout
 
@@ -3121,16 +2283,6 @@ stock take =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 holiday => 
 \end_layout
 
@@ -3140,16 +2292,6 @@ holiday =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Subject => 
 \end_layout
 
@@ -3161,16 +2303,6 @@ Subject =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 id => 
 \end_layout
 
@@ -3180,16 +2312,6 @@ id =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Subject Type => 
 \end_layout
 
@@ -3201,16 +2323,6 @@ Subject Type =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 image thumbnail => 
 \end_layout
 
@@ -3220,16 +2332,6 @@ image thumbnail =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Subscription => 
 \end_layout
 
@@ -3241,16 +2343,6 @@ Subscription =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Import Data to XXX from CSV file => 
 \end_layout
 
@@ -3260,16 +2352,6 @@ Import Data to XXX from CSV file =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 supplier => 
 \end_layout
 
@@ -3281,16 +2363,6 @@ supplier =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 initialize => 
 \end_layout
 
@@ -3300,16 +2372,6 @@ initialize =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 System Users => 
 \end_layout
 
@@ -3321,16 +2383,6 @@ System Users =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Inventory Code => 
 \end_layout
 
@@ -3340,16 +2392,6 @@ Inventory Code =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 template => 
 \end_layout
 
@@ -3361,16 +2403,6 @@ template =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 item = copies => 
 \end_layout
 
@@ -3380,16 +2412,6 @@ item = copies =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 transaction => 
 \end_layout
 
@@ -3401,16 +2423,6 @@ transaction =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 Item Code => 
 \end_layout
 
@@ -3420,16 +2432,6 @@ Item Code =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 uncheck => 
 \end_layout
 
@@ -3441,16 +2443,6 @@ uncheck =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 label => 
 \end_layout
 
@@ -3460,16 +2452,6 @@ label =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 update => 
 \end_layout
 
@@ -3481,8 +2463,6 @@ update =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\lang bahasa
 Labels => 
 \end_layout
 
@@ -3492,16 +2472,6 @@ Labels =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 user/user name => 
 \end_layout
 
@@ -3513,16 +2483,6 @@ user/user name =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 library automatation (system) =>
 \end_layout
 
@@ -3532,16 +2492,6 @@ library automatation (system) =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 view => 
 \end_layout
 
@@ -3553,16 +2503,6 @@ view =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 library members => 
 \end_layout
 
@@ -3572,16 +2512,6 @@ library members =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 you => 
 \end_layout
 
@@ -3593,16 +2523,6 @@ you =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 list => 
 \end_layout
 
@@ -3612,16 +2532,6 @@ list =>
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\noun off
-\color none
-\lang bahasa
 You are going to edit xxx => 
 \end_layout
 
@@ -3647,14 +2557,10 @@ You are going to edit xxx =>
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Setting Barcodes
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 To get good results when barcode printing, the minimum number of barcode
  characters is 6.
  These may consist of numbers or letters only .
@@ -3662,15 +2568,11 @@ To get good results when barcode printing, the minimum number of barcode
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Some examples of printing barcode:
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -3679,8 +2581,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/bc-8-1.png
 	scale 80
@@ -3691,8 +2591,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -3713,8 +2611,6 @@ Collection barcode printing results
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -3722,8 +2618,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/bc-8-2.png
 	scale 90
@@ -3734,8 +2628,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -3756,8 +2648,6 @@ Printing barcodes in the System menu
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -3766,8 +2656,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/bc-8-3.png
 	scale 80
@@ -3778,8 +2666,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -3799,8 +2685,6 @@ Printing barcodes on Member Cards
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 *) On the membership card, members may have a long name ID, Name or Member
  Type which may be truncated (and destroy the layout).
  To overcome this, adjust the length of the name of the member and the length
@@ -3808,8 +2692,6 @@ Printing barcodes on Member Cards
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 \begin_inset Newpage newpage
 \end_inset
 
@@ -3817,14 +2699,10 @@ Printing barcodes on Member Cards
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Changing the OPAC Template 
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 To get a different look from the standard view OPAC, you can make changes
  to the template that has been provided in the SLiMS distribution .
  Here is the standard view in SLiMS:
@@ -3832,8 +2710,6 @@ To get a different look from the standard view OPAC, you can make changes
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -3852,8 +2728,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4187,8 +3061,6 @@ After clicking the user table, then on the right there will be displayed
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4207,8 +3079,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4227,8 +3097,6 @@ List Username
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4247,8 +3115,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4272,8 +3138,6 @@ Change the password that has been encrypted with the new password, for example,
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4292,8 +3156,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4316,8 +3178,6 @@ In the Function select MD5, then click Go.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4336,8 +3196,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4445,8 +3303,6 @@ In Senayan3-stable15 there is a new feature for email alerts/claims to borrowers
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4465,8 +3321,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4498,8 +3352,6 @@ How do you use this? Use of this email feature is in the Circulation menu
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4518,8 +3370,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4550,8 +3400,6 @@ Send an email by clicking 'Send email about delay information "; if successful
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4570,8 +3418,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4598,8 +3444,6 @@ In addition to the Circulation Start menu , we can also use this feature
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4618,8 +3462,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4644,8 +3486,6 @@ If the members of the library opened their email, it will be found that
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4664,8 +3504,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4684,8 +3522,6 @@ List of emails in Inbox
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4704,8 +3540,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4723,8 +3557,6 @@ Display of received Email
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Adding Captcha
 \end_layout
 
@@ -4740,8 +3572,6 @@ Captcha is twofold, for Librarian login and for Member Login.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4760,8 +3590,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4780,8 +3608,6 @@ Setting up Captcha for Librarian Login
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4800,8 +3626,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4819,16 +3643,12 @@ Setting Captcha for Member Login
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 To activate, simply changed false to true.
  So when login will find the display as follows:
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4847,8 +3667,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4867,8 +3685,6 @@ Librarian Login Display with Captcha
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -4887,8 +3703,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4906,14 +3720,10 @@ Member Login Display with Captcha
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Adding a Z.39.50 Server 
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Commencing with Senayan3-stable15 (Matoa), SLiMS users will find it easy
  if they want to add new z.39.50 destination.
  The requirements to use Z39.50 are that SLiMS is connected to the Internet,
@@ -4923,14 +3733,11 @@ Commencing with Senayan3-stable15 (Matoa), SLiMS users will find it easy
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Go to the site
 \begin_inset Flex URL
 status open
 
 \begin_layout Plain Layout
-
 http://irspy.indexdata.com/
 \end_layout
 
@@ -4948,7 +3755,6 @@ http://irspy.indexdata.com/
 status open
 
 \begin_layout Plain Layout
-
 catalogue.abertay.ac.uk:10790/Voyager
 \end_layout
 
@@ -4958,28 +3764,20 @@ catalogue.abertay.ac.uk:10790/Voyager
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Open sysconfig.local.inc.php file and add the following code:
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-
-\lang bahasa
 $sysconf['z3950_max_result'] = 50; 
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 $sysconf['z3950_source'][1] = array('uri' => 'z3950.loc.gov:7090/voyager',
  'name' => 'Library of Congress Voyager');
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The two lines of code above, you can obtain a with copy-paste from the file
  sysconfig.inc.php on lines 321 and 322.
  The first line is setting the number of records displayed per page, while
@@ -4988,8 +3786,6 @@ The two lines of code above, you can obtain a with copy-paste from the file
 
 \end_deeper
 \begin_layout Enumerate
-
-\lang bahasa
 After that, add a new line (below) which contains the identity of the new
  destination server Z39.50, So using the example in number 1 above (Library
  of Abertay University, Dundee )
@@ -4997,22 +3793,16 @@ After that, add a new line (below) which contains the identity of the new
 
 \begin_deeper
 \begin_layout Standard
-
-\lang bahasa
 $sysconf['z3950_source'][2] = array('uri' => 'catalogue.abertay.ac.uk:10790/Voyager
 ', 'name' => 'Abertay Dundee University');
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-
-\lang bahasa
 Once done, Save the file and check in Bibliography - Z39.50 server.
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 Note: The port required by the Z39.50 server must be opened.
  For example, in the above example the port is 10790, For this section if
  you have difficulty, please contact the network administrator at your library.

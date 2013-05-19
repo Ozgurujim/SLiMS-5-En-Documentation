@@ -62,8 +62,6 @@
 \begin_body
 
 \begin_layout Chapter
-
-\lang bahasa
 System
 \end_layout
 
@@ -71,7 +69,6 @@ System
 
 \emph on
 \color blue
-\lang bahasa
 The library is an arena of possibility, opening both a window into the soul
  and a door onto the world.
  --Rita Dove
@@ -82,14 +79,10 @@ The library is an arena of possibility, opening both a window into the soul
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The Systems Module consists of:
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -101,8 +94,6 @@ System Configuration
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Using this form you can make changes to the global preferences in Senayan
  applications, such as: Library Name, Public Template ( of the OPAC display),
  Default Application Language, Admin Template (Admin view), Number of Collection
@@ -119,8 +110,6 @@ s to Show in OPAC Result List (number of titles that will be displayed on
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -128,8 +117,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-config.png
 	scale 60
@@ -140,8 +127,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -161,8 +146,6 @@ Senayan Global Configuration
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Show Promoted Titles at Homepage Module Feature on this system: if the check
  box is checked, the front of the OPAC display will be blank, unless there
  is a set of bibliographic data to display on the front page.
@@ -170,8 +153,6 @@ Show Promoted Titles at Homepage Module Feature on this system: if the check
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Commencing Senayan3-stable11, there is a feature to specify the date of
  loan and for return, manually.
  This feature can be enabled through the System Configuration Module, using
@@ -180,8 +161,6 @@ Commencing Senayan3-stable11, there is a feature to specify the date of
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -193,8 +172,6 @@ Content
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This menu is used to change the appearance of the Senayan application content
  .
  By default, views that already exist and can be modified in this menu are:
@@ -213,8 +190,6 @@ Home
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -222,8 +197,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-conten.png
 	scale 60
@@ -234,8 +207,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -256,8 +227,6 @@ Default Content Menu configuration
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -265,8 +234,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-adconten.png
 	scale 55
@@ -277,8 +244,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -299,8 +264,6 @@ Adding Content
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -308,8 +271,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-cont-tampil.png
 
@@ -319,8 +280,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -341,8 +300,6 @@ The appearance of the new content
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -350,8 +307,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-tamp-con 1.png
 	scale 90
@@ -362,8 +317,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -383,8 +336,6 @@ The URL to display the content
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Please see the URL for displaying the content, above.
  
 \end_layout
@@ -393,7 +344,6 @@ Please see the URL for displaying the content, above.
 
 \uwave on
 \color black
-\lang bahasa
 Consider a path created for the new content that is 'librarian'.
  To display this content with librarians path, then we need to write the
  url:
@@ -402,12 +352,10 @@ Consider a path created for the new content that is 'librarian'.
 \begin_layout Standard
 
 \color red
-\lang bahasa
 \begin_inset Flex URL
 status open
 
 \begin_layout Plain Layout
-
 http://localhost/slims5_meranti/index.php?p=librarian
 \end_layout
 
@@ -420,13 +368,10 @@ http://localhost/slims5_meranti/index.php?p=librarian
 
 \uwave on
 \color black
-\lang bahasa
 We can create the navigation to this URL in the OPAC by editing the template.
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -438,16 +383,12 @@ Biblio Indexes
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This menu is used to index the bibliographic databases used by SLiMS.
  Given this indexing, the search performance of SLiMS will be improved .
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -455,8 +396,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/system-index.png
 	scale 40
@@ -467,8 +406,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -505,8 +442,6 @@ Update the index: to index new bibliographic data that has not yet been
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -518,8 +453,6 @@ Modules
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Provides the functions of Module List (listing existing modules), Search
  (search for a module), Edit and Delete Modules, and Add New Module (add
  a module).
@@ -527,8 +460,6 @@ Provides the functions of Module List (listing existing modules), Search
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 To add a module, the module folder must already be placed in the folder
  admin/modules/.
  Then click the Add New Modules, fill in the information of the new module,
@@ -547,8 +478,6 @@ Save
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -556,8 +485,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-modulist.png
 
@@ -567,8 +494,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -589,8 +514,6 @@ Module List
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -598,8 +521,6 @@ status collapsed
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-newmod.png
 
@@ -609,8 +530,6 @@ status collapsed
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -630,8 +549,6 @@ Add New Module
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -643,8 +560,6 @@ System Users
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 A facility to determine which users can access the system, according to
  their permissions.
  These users will be able to perform a login according to their username
@@ -657,8 +572,6 @@ A facility to determine which users can access the system, according to
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -666,8 +579,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-addsysuser.png
 	scale 50
@@ -678,8 +589,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -699,8 +608,6 @@ Add User
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -712,8 +619,6 @@ User Groups
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 A facility to define Groups of Users.
  In this you can create groupings of your system users and grant read (Read)
  or Write (Write) permissions for the Senayan modules.
@@ -722,8 +627,6 @@ A facility to define Groups of Users.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -731,8 +634,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-usergroup.png
 
@@ -742,8 +643,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -763,8 +662,6 @@ Example of Senayan groups
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -776,8 +673,6 @@ Holiday Setting
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 A facility to determine days off, where the library is not open for service.
  Defining these holidays will effect calculation of weekdays the library
  is active/open, and fine calculation.
@@ -788,8 +683,6 @@ A facility to determine days off, where the library is not open for service.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -797,8 +690,6 @@ status collapsed
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-holset.png
 
@@ -808,8 +699,6 @@ status collapsed
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -830,8 +719,6 @@ Set Holiday
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -839,8 +726,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-addspechol.png
 	scale 70
@@ -851,8 +736,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -872,8 +755,6 @@ Add Special Holiday
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 To Set Holidays, librarians just choose the day(s) that is a routine holiday
  .
  For the Add Special Holiday, librarians can determine the date, month,
@@ -883,8 +764,6 @@ To Set Holidays, librarians just choose the day(s) that is a routine holiday
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -896,15 +775,11 @@ Barcode Generator
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 A facility to create barcodes.
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -912,8 +787,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-barc-awal.png
 	scale 80
@@ -924,8 +797,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -946,8 +817,6 @@ Form for creating barcode(s)
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -955,8 +824,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-barcode.png
 	scale 80
@@ -967,8 +834,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -988,8 +853,6 @@ Resulting barcodes from Barcode Generator
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Enter the code that will be made into a barcode in the columns on the screen.
  Determine the size of the barcode (Small, Medium, or Big), and click the
  Generate Barcode.
@@ -1002,40 +865,28 @@ Enter the code that will be made into a barcode in the columns on the screen.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Find the line that reads:
 \end_layout
 
 \begin_layout LyX-Code
-
-\lang bahasa
 $sysconf['barcode_encoding'] = '128B';
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Change the value of type 128B to the encoding you want.
  Make sure the images directory is writable by the web server.
 \end_layout
 
 \begin_layout Quotation
-
-\lang bahasa
 Note:
 \end_layout
 
 \begin_layout Quotation
-
-\lang bahasa
 The characters that can be processed in the Barcode Generator are just the
  alphanumeric character set.
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -1047,8 +898,6 @@ System Log
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This is a menu to view the recorded processes conducted by the Senayan system.
  Records that are produced list Time, Location (module name), and Message
  (description).
@@ -1058,8 +907,6 @@ This is a menu to view the recorded processes conducted by the Senayan system.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -1067,8 +914,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sys-log.png
 	scale 50
@@ -1079,8 +924,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -1100,8 +943,6 @@ System Logs
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 When the Senayan application has been used, it will automatically log the
  Senayan work and the log size and load will also increase.
  Therefore, the system log menus, also contains the facility to SAVE LOGS
@@ -1111,8 +952,6 @@ When the Senayan application has been used, it will automatically log the
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -1124,8 +963,6 @@ Database Backup
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 A facility to backup the Senayan database .
  To be able to back up, the mysqldump file path must be defined.
  The trick is to edit the file sysconfig.inc.php.
@@ -1133,14 +970,10 @@ A facility to backup the Senayan database .
 \end_layout
 
 \begin_layout LyX-Code
-
-\lang bahasa
 $sysconf['mysqldump'] = '/usr/bin/mysqldump';
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 and replace /usr/bin/mysqldump with the location of the mysqldump binary
  on the server computer.
  After the mysqldump path has been set accurately, click Start New Backup
@@ -1154,7 +987,6 @@ and replace /usr/bin/mysqldump with the location of the mysqldump binary
 \begin_layout Standard
 
 \emph on
-\lang bahasa
 Note: to do this backup, the mysql database user must have the right to
  LOCK TABLES
 \end_layout

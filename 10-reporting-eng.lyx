@@ -62,8 +62,6 @@
 \begin_body
 
 \begin_layout Chapter
-
-\lang bahasa
 Reporting
 \end_layout
 
@@ -71,7 +69,6 @@ Reporting
 
 \emph on
 \color blue
-\lang bahasa
 Librarians are subversive.
  You think they're just sitting there at the desk, all quiet and everything.
  They're like plotting the revolution.
@@ -83,16 +80,12 @@ Librarians are subversive.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The Reporting module contains a library activity report.
  Such information can be accessed by pressing the menu located on the left
  hand navigation menu:
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -104,8 +97,6 @@ Collection Statistic
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Contains the total collection information for titles, total items, total
  items being borrowed, the total items that were in the library (not borrowed),
  total titles based GMD, total collection of items by type, and 10 (ten)
@@ -114,8 +105,6 @@ Contains the total collection information for titles, total items, total
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -123,8 +112,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-colstat.png
 	scale 60
@@ -135,8 +122,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -156,8 +141,6 @@ Display Collection Statistics
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -169,8 +152,6 @@ Loan Report
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Contains information about borrowing.
  Consists of: total lending, lending based on GMD, lending by the collection
  type, total lending transactions, the average transaction per day, a member
@@ -179,8 +160,6 @@ Contains information about borrowing.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -188,8 +167,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-loanrep.png
 	scale 60
@@ -200,8 +177,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -221,8 +196,6 @@ Loan Report Menu
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -234,8 +207,6 @@ Membership Report
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Contains membership information, ie the total registered members, the total
  active members, total members by members type , total members who are not
  active and a list of 10 (ten) most active members.
@@ -243,8 +214,6 @@ Contains membership information, ie the total registered members, the total
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -252,8 +221,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-memrep.png
 	scale 60
@@ -264,8 +231,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -285,15 +250,11 @@ Member Report
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 The report is available in .html format and can be printed by clicking Download
  Report
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 Commencing Senayan3-stable14, the three types of report are equipped with
  a print feature of various Pie charts.
  You get this graph simply by clicking the 
@@ -310,8 +271,6 @@ Show in Chart/Plot
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -319,8 +278,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-pie1.png
 	scale 50
@@ -331,8 +288,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -353,8 +308,6 @@ Show in chart/plot
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -362,8 +315,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-pie2.png
 	scale 50
@@ -374,8 +325,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -395,8 +344,6 @@ Pie display
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -408,8 +355,6 @@ Custom Recapitulations
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This menu displays the recapitulation of titles, based on Classification,
  GMD, Collection Type or Language.
  This option can be set by selecting the recapitulation filter available.
@@ -419,8 +364,6 @@ This menu displays the recapitulation of titles, based on Classification,
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -428,8 +371,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep_classrep.png
 	scale 30
@@ -441,8 +382,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -462,23 +401,17 @@ Recap by Classification
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Commencing with the Senayan3-Stable10 Report module, there is a development
  to allow users to create a a new report on a Senayan module.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 In the folder /senayan3-stable10/admin/modules/reporting/custom/ there exists
  a file, customs_report_list.inc.php .
  In this file, report modifications and additions can be made​​.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Custom Recapitulation - 
 \begin_inset Quotes eld
 \end_inset
@@ -492,8 +425,6 @@ Print Current Page
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -505,8 +436,6 @@ Titles List
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Contains reports/lists of titles held by the library.
  In this menu there is a facility to sort and print, as well as a collection
  of desired filters.
@@ -517,7 +446,6 @@ Contains reports/lists of titles held by the library.
 status collapsed
 
 \begin_layout Plain Layout
-
 Show More Filter Options
 \end_layout
 
@@ -530,8 +458,6 @@ Show More Filter Options
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -539,8 +465,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-title.png
 	scale 50
@@ -551,8 +475,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -572,15 +494,11 @@ Title Report
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This feature also provides the facility to create a spreadsheet file download.
  Files can be obtained by clicking "Export to spreadsheet format".
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -592,8 +510,6 @@ Items title List
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Contains reports/lists of copies of titles held by the library.
  In this menu there is a facility to sort and print, as well as a collection
  of desired filters.
@@ -604,7 +520,6 @@ Contains reports/lists of copies of titles held by the library.
 status collapsed
 
 \begin_layout Plain Layout
-
 Show More Filter Options
 \end_layout
 
@@ -617,7 +532,6 @@ Show More Filter Options
 status collapsed
 
 \begin_layout Plain Layout
-
 Hide Filter Option
 \end_layout
 
@@ -628,8 +542,6 @@ Hide Filter Option
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -637,8 +549,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-item.png
 	scale 70
@@ -649,8 +559,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -670,14 +578,10 @@ Item Title List Report
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Item Usage
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This is a report that lists the item, and how many times the copy has been
  borrowed on a monthly basis.
  Item usage also can be filtered by Title/ISBN, Item code or Year.
@@ -685,8 +589,6 @@ This is a report that lists the item, and how many times the copy has been
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -695,8 +597,6 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/itemusage.png
 	scale 90
@@ -707,8 +607,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -728,8 +626,6 @@ Item Usage
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -741,8 +637,6 @@ Loan by Classification
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This is a classification-based lending report.
  In addition to classes 0-9, the report also makes possible class-based
  reporting and Non-Decimal Class 2X.
@@ -751,8 +645,6 @@ This is a classification-based lending report.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -761,8 +653,6 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/loanbyclass2.png
 	scale 60
@@ -773,8 +663,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -794,15 +682,11 @@ Loan by Class
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This feature also provides the facility to create a spreadsheet file download.
  Files can be obtained by clicking "Export to spreadsheet format".
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -814,8 +698,6 @@ Member List
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This contains a report/list of library members.
  In this menu there is a facility to sort and print.
  In addition, there are also filter amenities , ie based on Membership Type,
@@ -840,8 +722,6 @@ Register Date Until
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -849,8 +729,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-member.png
 	scale 45
@@ -861,8 +739,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -882,15 +758,11 @@ Member List Report
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This feature also provides the facility to create a spreadsheet file download.
  Files can be obtained by clicking "Export to spreadsheet format".
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -902,16 +774,12 @@ Loan List by Member
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This is a report that contains a list of items that are still borrowed by
  Members.
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -919,8 +787,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-hystori.png
 	scale 40
@@ -931,8 +797,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -952,8 +816,6 @@ Loan list by Member
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -965,8 +827,6 @@ Loan History
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This contains reports/lists of library borrowing history for Members.
  In this menu there is a facility to sort and print.
  In this menu, filtering can also be done by writing the Member ID/Member
@@ -976,7 +836,6 @@ This contains reports/lists of library borrowing history for Members.
 status open
 
 \begin_layout Plain Layout
-
 Show More Filter Options
 \end_layout
 
@@ -987,8 +846,6 @@ Show More Filter Options
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -996,8 +853,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-loanhys.png
 	scale 40
@@ -1008,8 +863,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -1029,15 +882,11 @@ Loan History Report
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This feature also provides the facility to create a spreadsheet file download.
  Files can be obtained by clicking "Export to spreadsheet format".
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -1049,16 +898,12 @@ Overdued List
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This contains reports/lists of overdue items borrowed by library members.
  In this menu there is a facility to sort and print.
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -1066,8 +911,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-overdu.png
 	scale 50
@@ -1078,8 +921,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -1099,8 +940,6 @@ Overdue Report
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -1112,8 +951,6 @@ Staff Activity
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This menu shows the activities of the library staff who have an account
  in the Senayan application.
  The information shown is the Username, Login Name, Bibliographic data entry,
@@ -1122,16 +959,12 @@ This menu shows the activities of the library staff who have an account
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 For accurate information, a filter is provided that lets us see the activity
  from a beginning to the end date (as defined).
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -1139,8 +972,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep_staffactv.png
 	scale 40
@@ -1152,8 +983,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -1177,8 +1006,6 @@ Staff Activity
 \end_inset
 
 Visitor Statistic
-\lang bahasa
-
 \begin_inset Quotes erd
 \end_inset
 
@@ -1194,8 +1021,6 @@ This is a report that contains statistics of library visitors.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -1204,8 +1029,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-visit stat.png
 	scale 55
@@ -1217,8 +1040,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -1238,8 +1059,6 @@ Visitor Statistic
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -1251,15 +1070,11 @@ Visitor Statistic (by Day)
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This is a report based on the number of visitors per weekday.
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -1268,8 +1083,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-visbyday.png
 	scale 40
@@ -1281,8 +1094,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -1302,8 +1113,6 @@ Visitors by Day
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -1315,8 +1124,6 @@ Visitor List
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This report contains a list of names of library members or non-members who
  visit the library.
  This report contains information on the Member ID, Member Name, Member
@@ -1325,8 +1132,6 @@ This report contains a list of names of library members or non-members who
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -1335,8 +1140,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-visit list.png
 	scale 60
@@ -1348,8 +1151,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -1369,8 +1170,6 @@ Visitor List
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 For a description of the missing features, please see the section 
 \begin_inset Quotes eld
 \end_inset
@@ -1383,8 +1182,6 @@ Absence.
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -1396,15 +1193,11 @@ Fines Report
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This is a report based on the numbers of members fined each day.
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -1413,8 +1206,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/rep-finesrep.png
 	scale 40
@@ -1426,8 +1217,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -1447,8 +1236,6 @@ Fines Report
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -1460,16 +1247,12 @@ Due Date Warning
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This report contains the items of the borrower that will be due within 3
  days.
 \end_layout
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -1478,8 +1261,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/report-duedatewarning.png
 	scale 60
@@ -1491,8 +1272,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout

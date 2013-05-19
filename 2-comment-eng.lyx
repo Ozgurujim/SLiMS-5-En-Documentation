@@ -61,14 +61,10 @@
 \begin_body
 
 \begin_layout Section
-
-\lang bahasa
 About SLiMS:
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 As a form of respect and pride for Indonesia, beginning with Senayan3-stable14,
  SLiMS releases are named after the flora that grows in the archipelago.
  Senayan3-Stable14 uses the codename Seulanga , Senayan3-Stable15 uses Matoa,
@@ -78,7 +74,6 @@ As a form of respect and pride for Indonesia, beginning with Senayan3-stable14,
 status open
 
 \begin_layout Plain Layout
-
 http://slims.web.id/web/?q=node/1
 \end_layout
 
@@ -113,15 +108,11 @@ http://id.wikipedia.org/wiki/Senayan_%28perangkat_lunak%29
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 After Senayan3-Stable15, the version immediately jumped to SLiMS-5 using
  MERANTI as the codename.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 \begin_inset Box Boxed
 position "t"
 hor_pos "c"
@@ -136,8 +127,6 @@ height_special "totalheight"
 status open
 
 \begin_layout Plain Layout
-
-\lang bahasa
 The Meranti timber plant population is increasingly approaching extinction.
  Meranti is a species in the Dipterocarp family , and in the conservation
  priority list of the Indonesian Institute of Sciences or LIPI.
@@ -166,8 +155,6 @@ unah
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Physically, Meranti is upright, and tall with many branches.
  The wood has relatively high value and is rare, almost extinct.
  SDC hopes Slims-5 will rise up also, and benefit the development of many
@@ -176,8 +163,6 @@ Physically, Meranti is upright, and tall with many branches.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -201,14 +186,11 @@ status open
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Image source : 
 \begin_inset Flex URL
 status collapsed
 
 \begin_layout Plain Layout
-
 http://www.towermaster-online.com/images/enviropole/Meranti-Tree03.jpg
 \end_layout
 
@@ -218,8 +200,6 @@ http://www.towermaster-online.com/images/enviropole/Meranti-Tree03.jpg
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 \begin_inset Newpage newpage
 \end_inset
 
@@ -227,8 +207,6 @@ http://www.towermaster-online.com/images/enviropole/Meranti-Tree03.jpg
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 Credits
 \end_layout
 
@@ -236,7 +214,6 @@ Credits
 \align center
 
 \emph on
-\lang bahasa
 Credits: 
 \begin_inset Newline newline
 \end_inset
@@ -255,8 +232,6 @@ Hendro Wicaksono (hendrowicaksono@yahoo.com) -- Arie Nugraha (dicarve@yahoo.com)
 \begin_layout Standard
 \noindent
 \align center
-
-\lang bahasa
 This document was created using Creative Common License (CCL)
 \begin_inset Newline newline
 \end_inset
@@ -266,7 +241,6 @@ This document was created using Creative Common License (CCL)
 status open
 
 \begin_layout Plain Layout
-
 http://creativecommons.org/about/licenses/
 \end_layout
 
@@ -277,8 +251,6 @@ http://creativecommons.org/about/licenses/
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -302,8 +274,6 @@ status collapsed
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 \begin_inset Newpage newpage
 \end_inset
 
@@ -357,7 +327,6 @@ Daniel D'esposito (HURIDOCS Executive Director )
 status collapsed
 
 \begin_layout Plain Layout
-
 http://www2.law.uu.nl/english/sim/library/ecchrd/32/OpenSource.pdf
 \end_layout
 
@@ -383,7 +352,6 @@ Recommended URLs related to SLiMS
 status collapsed
 
 \begin_layout Plain Layout
-
 http://slims.web.id/web/?q=faq 
 \end_layout
 
@@ -397,7 +365,6 @@ http://slims.web.id/web/?q=faq
 status collapsed
 
 \begin_layout Plain Layout
-
 http://slims.web.id/download/docs/
 \end_layout
 
@@ -411,7 +378,6 @@ http://slims.web.id/download/docs/
 status collapsed
 
 \begin_layout Plain Layout
-
 http://slims.web.id/forum
 \end_layout
 
@@ -425,7 +391,6 @@ http://slims.web.id/forum
 status collapsed
 
 \begin_layout Plain Layout
-
 http://slims.web.id/demo
 \end_layout
 
@@ -439,7 +404,6 @@ http://slims.web.id/demo
 status collapsed
 
 \begin_layout Plain Layout
-
 https://www.facebook.com/groups/senayan.slims/
 \end_layout
 
@@ -453,7 +417,6 @@ https://www.facebook.com/groups/senayan.slims/
 status collapsed
 
 \begin_layout Plain Layout
-
 https://github.com/slims/ 
 \end_layout
 
@@ -468,7 +431,6 @@ SLiMS community:
 status collapsed
 
 \begin_layout Plain Layout
-
 http://jogjalib.net
 \end_layout
 
@@ -479,7 +441,6 @@ http://jogjalib.net
 status collapsed
 
 \begin_layout Plain Layout
-
 http://pangkeplib.net
 \end_layout
 
@@ -490,7 +451,6 @@ http://pangkeplib.net
 status collapsed
 
 \begin_layout Plain Layout
-
 http://primurlib.net
 \end_layout
 
@@ -501,7 +461,6 @@ http://primurlib.net
 status collapsed
 
 \begin_layout Plain Layout
-
 http://ambonlib.net
 \end_layout
 
@@ -512,7 +471,6 @@ http://ambonlib.net
 status collapsed
 
 \begin_layout Plain Layout
-
 http://makassarlib.net
 \end_layout
 

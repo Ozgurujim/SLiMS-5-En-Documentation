@@ -62,8 +62,6 @@
 \begin_body
 
 \begin_layout Chapter
-
-\lang bahasa
 Serial Control
 \end_layout
 
@@ -71,7 +69,6 @@ Serial Control
 
 \emph on
 \color blue
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -84,8 +81,6 @@ Open Source is about respecting others peoples creation, sharing knowledge
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Serial Control has been implemented since Senayan3-Stable10.
  This feature is used to manage a collection of serials/magazines/publications
  subscribed to by the library.
@@ -96,8 +91,6 @@ Serial Control has been implemented since Senayan3-Stable10.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 The Serial Control Module will run if bibliographic data is subscribed for
  magazine titles.
  The information that distinguishes between magazine bibliographic data
@@ -109,7 +102,6 @@ The Serial Control Module will run if bibliographic data is subscribed for
 \begin_layout Standard
 
 \color black
-\lang bahasa
 The initial view of the module when activated will show a list of magazines
  that include titles owned by the library and the publication frequency.
  Improvement to a serial's bibliographic data is possible by clicking the
@@ -118,16 +110,12 @@ The initial view of the module when activated will show a list of magazines
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 To display a list of subscriptions, use the folder icon ( with magnifier)
  to the right of the list.
  
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 To use KARDEX you should start by doing initialising first.
  Initializing the data for the arrival of subscribed magazine is intended
  to identify the initial number of items expected to be received, and the
@@ -138,8 +126,6 @@ n of the KARDEX list.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -147,8 +133,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/serial-subscribe-baru.png
 	scale 40
@@ -160,8 +144,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -181,23 +163,17 @@ Making KARDEX
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Subscription Start: fill in the date the subscription will start to be received
  at the library.
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Total Exemplar Expected: enter the total number you expect to receive in
  a period of a subscription.
  E.g to subscribe for a year on a monthly basis insert 12.
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Period Name: Name the subscription period to provide differentiation between
  periods.
  Also give a name to distinguish copy subscription one, a second subscription,
@@ -205,28 +181,20 @@ Period Name: Name the subscription period to provide differentiation between
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Subscription Notes: Insert important or useful notes on the subscription.
  
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 GMD: if necessary, replace it with the appropriate GMD of the item to be
  subscribed
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Click 'Save' to store data initialization.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 If the KARDEX data storage process is successful, the following window will
  be displayed.
  Click 'OK' to return subscription list for the title question.
@@ -234,8 +202,6 @@ If the KARDEX data storage process is successful, the following window will
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -243,8 +209,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/serial-inisalisasi-sukses.png
 	scale 50
@@ -256,8 +220,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -278,8 +240,6 @@ Kardex storage
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -287,8 +247,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/serial-daftar-langganan.png
 	scale 40
@@ -300,8 +258,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -321,21 +277,15 @@ KARDEX stored
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Commence entering KARDEX
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 When serials/magazines subscribed to arrive at the library, open the kardex
  list by clicking the "View / Edit KARDEX Detail".
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 SKiMS KARDEX provides 4 columns of information: 1.
  The Expected arrival date is automatically filled in during KARDEX initializati
 on.
@@ -352,8 +302,6 @@ on.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -361,8 +309,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/serial-kardex.png
 	scale 40
@@ -374,8 +320,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -395,8 +339,6 @@ Kardex form
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Note: Do not forget to click the 'Save' when changing data in KARDEX.
  If not, changes that have been made ​​will be ignored.
 \end_layout

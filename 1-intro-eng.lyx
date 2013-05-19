@@ -61,21 +61,15 @@
 \begin_body
 
 \begin_layout Title
-
-\lang bahasa
 SLiMS documentation
 \end_layout
 
 \begin_layout Title
-
-\lang bahasa
 Based on SLiMS-5
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-
-\lang bahasa
 * written with LyX 1.6.5
 \end_layout
 
@@ -90,8 +84,6 @@ status open
 status open
 
 \begin_layout Plain Layout
-
-\lang bahasa
 † SLiMS official website: http://slims.web.id
 \end_layout
 
@@ -110,8 +102,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/tarsius.png
 	scale 90
@@ -127,8 +117,6 @@ status open
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 \begin_inset ERT
 status open
 
@@ -170,8 +158,6 @@ thispagestyle{empty}
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Box Shadowbox
 position "t"
 hor_pos "c"
@@ -186,8 +172,6 @@ height_special "totalheight"
 status open
 
 \begin_layout Plain Layout
-
-\lang bahasa
 Using free open source software / free software is like quoting statements
  from other people's work in the academic field, the original author ga
  ask anything at anyway, ask for money too engga, cuman have your name and
@@ -201,116 +185,78 @@ Using free open source software / free software is like quoting statements
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Updated in Senayan5 (MERANTI): 
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Template admin and new OPAC 
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Z39.50 SRU: Search / Retrieval via URL
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: OAI / PMH feature
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Statement of Responsibility in the bibliography
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Item(s) batch barcode generator
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Bibliographic Classification
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Printing catalog cards
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Fixed: Bug in exporting and importing bibliographic items
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Search result clustering
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Brazilian-Portugese language
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Orphaned publisher and place
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: MARC data Import
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Member photos captured directly in the application
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Keyboard shortcuts to modules and sub-modules
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Mobile display
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Setting a fine, and holiday count
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 • Added: Zend barcode
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 \begin_inset Newpage newpage
 \end_inset
 
@@ -318,14 +264,10 @@ Updated in Senayan5 (MERANTI):
 \end_layout
 
 \begin_layout Subsection*
-
-\lang bahasa
 Important Note:
 \end_layout
 
 \begin_layout Subsubsection*
-
-\lang bahasa
 Sysconfig
 \end_layout
 
@@ -335,7 +277,6 @@ Sysconfig
 status open
 
 \begin_layout Plain Layout
-
 sysconfig.local.inc.php
 \end_layout
 
@@ -360,7 +301,6 @@ If, in the file
 status open
 
 \begin_layout Plain Layout
-
 sysconfig.inc.php
 \end_layout
 
@@ -371,7 +311,6 @@ sysconfig.inc.php
 status open
 
 \begin_layout Plain Layout
-
 $sysconf['ucs']['enable'] = false;
 \end_layout
 
@@ -387,7 +326,6 @@ And in the file
 status open
 
 \begin_layout Plain Layout
-
 sysconfig.local.inc.php
 \end_layout
 
@@ -398,7 +336,6 @@ sysconfig.local.inc.php
 status open
 
 \begin_layout Plain Layout
-
 $sysconf['ucs']['enable'] = true;
 \end_layout
 
@@ -427,8 +364,6 @@ From SLiMS5 onwards, SLiMS has shortcut features that can be used to switch
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -437,8 +372,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/hotkey-shift.png
 	scale 35
@@ -449,8 +382,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -471,8 +402,6 @@ Module Shortcuts
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -481,8 +410,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/hotkey-shift.png
 	scale 35
@@ -493,8 +420,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -523,7 +448,6 @@ Submodule Hotkeys
 \family sans
 \series bold
 \color black
-\lang bahasa
 Translation notes: 
 \family default
 \series default
@@ -531,15 +455,15 @@ This document has been translated from Bahasa Indonesia by a native speaker
  of English, using Google Translate and professional knowledge of library
  computer systems.
  As such, it is neither elegant nor likely to be completely accurate, since
- I have little knowledge of Indonesian language.
+ I have little knowledge of the Bahasa Indonesian language.
  I have followed almost completely the format and wording of the original
  document and whenever uncertain as to Google Translate's output, I cross-checke
 d by accessing an operational Senayan SLiMS 5 ( Meranti ) installation.
+ The graphic screen-shots are taken directly from the Indonesian language
+ manual, and occasionally reflect this.
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 As readers find errors and think of possible improvements in this document
  , it would be most helpful if they could notify us about them via the SLiMS
  user forums ( 
@@ -547,7 +471,6 @@ As readers find errors and think of possible improvements in this document
 status collapsed
 
 \begin_layout Plain Layout
-
 http://forum.slims.web.id )
 \end_layout
 

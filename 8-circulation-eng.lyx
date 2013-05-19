@@ -62,8 +62,6 @@
 \begin_body
 
 \begin_layout Chapter
-
-\lang bahasa
 Circulation
 \end_layout
 
@@ -71,7 +69,6 @@ Circulation
 
 \emph on
 \color blue
-\lang bahasa
 What in the world would we do without our libraries? --Katherine Hepburn
 \begin_inset Newline newline
 \end_inset
@@ -80,15 +77,11 @@ What in the world would we do without our libraries? --Katherine Hepburn
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This module is used for circulation.
  Some of the menus in it are:
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -100,8 +93,6 @@ Start Transaction
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 To make transactions via the Member ID (ID of member).
  Once Member ID is inserted, it will display the member's information ,
  namely: Member Name (name of member), Member E-Mail (member's email address),
@@ -118,8 +109,6 @@ To make transactions via the Member ID (ID of member).
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -128,8 +117,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sirk-mulai.png
 	scale 35
@@ -140,8 +127,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -161,14 +146,10 @@ Circulation process
 \end_layout
 
 \begin_layout Quotation
-
-\lang bahasa
 Note:
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 After completing the process of borrowing (Loans) and reservations (Reserve)
  do not forget to click Finish Transaction.
  Without pressing the Finish Transaction, all of the transactions will not
@@ -176,8 +157,6 @@ After completing the process of borrowing (Loans) and reservations (Reserve)
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 Starting with Senayan3-stable13 a feature is available to print a transaction
  note .
  To enable this feature, one must first enable the module in System Setup.
@@ -187,8 +166,6 @@ Starting with Senayan3-stable13 a feature is available to print a transaction
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -197,8 +174,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sirk-nota.png
 	scale 80
@@ -209,8 +184,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -230,8 +203,6 @@ Printing Transaction Notes
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 Commencing with Senayan3-stable11, it is possible to determine the date
  of loan and return manually.
  That is, the date of loan and return can be determined without being based
@@ -241,8 +212,6 @@ Commencing with Senayan3-stable11, it is possible to determine the date
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 placement H
 wide false
@@ -251,8 +220,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sirk-edit-date.png
 	scale 40
@@ -263,8 +230,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -284,15 +249,11 @@ Determining Loan and Due date manually
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 Loan and Due Date: determination of this can be done by clicking on the
  date that we want to change.
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -304,15 +265,11 @@ Quick Return
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 To make a return, using the Item ID code.
 \end_layout
 
 \begin_layout Quote
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -320,8 +277,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sirk-quick.png
 	scale 60
@@ -332,8 +287,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -354,8 +307,6 @@ Quick Return
 
 \begin_layout Quote
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -363,8 +314,6 @@ status collapsed
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sirk-quickreturn-indra.png
 	scale 40
@@ -375,8 +324,6 @@ status collapsed
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -396,8 +343,6 @@ QuickReturn
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -409,8 +354,6 @@ Loan Rules
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 This is a facility to define lending rules based on the Member Type, Collection
  Type and GMD.
  The rules set out in this facility are: Limit number of loan items (Loan
@@ -421,8 +364,6 @@ This is a facility to define lending rules based on the Member Type, Collection
 
 \begin_layout Quote
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -430,8 +371,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sirk-loanrules.png
 	scale 35
@@ -442,8 +381,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -463,70 +400,50 @@ Loan Rules
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 An example of defining Loan Rules:
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-
-\lang bahasa
 In the library you have 3 types of collections: books, audiovisual (AV)
  and theses.
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 One type of membership your library has is : Student loans, with a total
  allowance of 2 items, namely: one item from the book collection and one
  more from the AV collection.
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 For that you would need to create the membership type: "Students" , with
  total borrowing from two collections.
 \end_layout
 
 \begin_layout Enumerate
-
-\lang bahasa
 So, in Loan Rules this must be defined:
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-
-\lang bahasa
 Member type "Student", borrowing allowance for collection="Book" is 1.
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Member type "Student", borrowing allowance for collection="AV" is 1.
 \end_layout
 
 \begin_layout Itemize
-
-\lang bahasa
 Member type "Student", borrowing allowance for collection="Thesis" is 0.
 \end_layout
 
 \end_deeper
 \end_deeper
 \begin_layout Quote
-
-\lang bahasa
 Everything must be defined, otherwise it can be exceeded.
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -538,8 +455,6 @@ Loan History
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 Contains data of every transaction ever undertaken.
  Resulting data comprises: Member ID, Member Name, Item Code, Title, Loan
  date, Due date.
@@ -553,8 +468,6 @@ Contains data of every transaction ever undertaken.
 
 \begin_layout Quote
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -562,8 +475,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sirk-loanhys.png
 	scale 40
@@ -574,8 +485,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -595,8 +504,6 @@ Loan History
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -608,8 +515,6 @@ Overdued List
 \end_layout
 
 \begin_layout Quote
-
-\lang bahasa
 A facility to find members with overdue status.
  Information displayed in this facility is Member ID, Member Name, Title,
  Days overdue, Loan Date, Due Date.
@@ -620,8 +525,6 @@ A facility to find members with overdue status.
 
 \begin_layout Quote
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -629,8 +532,6 @@ status open
 
 \begin_layout Plain Layout
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sirk-loanover.png
 	scale 35
@@ -641,8 +542,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -662,8 +561,6 @@ Overdue Loans
 \end_layout
 
 \begin_layout Section
-
-\lang bahasa
 \begin_inset Quotes eld
 \end_inset
 
@@ -675,8 +572,6 @@ Reservation
 \end_layout
 
 \begin_layout Standard
-
-\lang bahasa
 This menu is used to view a list of reservations by the members.
  Item information contained in this menu is : Item Code, Title, Member,
  Reserve Date
@@ -684,8 +579,6 @@ This menu is used to view a list of reservations by the members.
 
 \begin_layout Standard
 \align center
-
-\lang bahasa
 \begin_inset Float figure
 wide false
 sideways false
@@ -694,8 +587,6 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align center
-
-\lang bahasa
 \begin_inset Graphics
 	filename image/sirk-reserv.png
 	scale 90
@@ -706,8 +597,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang bahasa
 \begin_inset Caption
 
 \begin_layout Plain Layout

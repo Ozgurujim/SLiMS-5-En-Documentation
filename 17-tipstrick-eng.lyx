@@ -87,6 +87,7 @@ OAI-PMH has been present in SLiMS since SLiMS-5.
 status collapsed
 
 \begin_layout Plain Layout
+
 http://garuda.kemdiknas.go.id.
 \end_layout
 
@@ -167,6 +168,7 @@ Convey the OAI-PMH service URL to stakeholders.
 status open
 
 \begin_layout Plain Layout
+
 http://slimsdomainname/oai.php?verb=ListRecords&metadataPrefix=oai_dc
 \end_layout
 
@@ -301,6 +303,7 @@ Enjoy! Do not forget, if you find a bug in this module, please report it
 status collapsed
 
 \begin_layout Plain Layout
+
 http://slims.web.id/forum
 \end_layout
 
@@ -321,6 +324,7 @@ Setting the size of barcodes and labeling can be done by editing the file
 status open
 
 \begin_layout Plain Layout
+
 /senayan3-stable7/admin/admin_template/
 \end_layout
 
@@ -658,6 +662,7 @@ If you want the settings for the barcode, label and members card to differ
 status collapsed
 
 \begin_layout Plain Layout
+
 print_settings.inc.php
 \end_layout
 
@@ -676,6 +681,7 @@ Open the my.ini file located in
 status collapsed
 
 \begin_layout Plain Layout
+
 /mysql/my.ini
 \end_layout
 
@@ -871,6 +877,7 @@ Secondly, here are the ways of technically upgrading:
 status open
 
 \begin_layout Plain Layout
+
 http://localhost/phpmyadmin
 \end_layout
 
@@ -1046,6 +1053,7 @@ Click Browse
 status open
 
 \begin_layout Plain Layout
+
 upgrade_stable3.sql
 \end_layout
 
@@ -1056,6 +1064,7 @@ upgrade_stable3.sql
 status open
 
 \begin_layout Plain Layout
+
 upgrade_stable4.sql
 \end_layout
 
@@ -1067,6 +1076,7 @@ upgrade_stable4.sql
 status open
 
 \begin_layout Plain Layout
+
 ../upgrade/old_sql/..
 \end_layout
 
@@ -1128,6 +1138,7 @@ Select the data to upgrade
 status open
 
 \begin_layout Plain Layout
+
 sysconfig.inc.php
 \end_layout
 
@@ -1139,6 +1150,7 @@ sysconfig.inc.php
 status open
 
 \begin_layout Plain Layout
+
 sysconfig.inc.php
 \end_layout
 
@@ -1150,6 +1162,7 @@ sysconfig.inc.php
 status collapsed
 
 \begin_layout Plain Layout
+
 mysqldump
 \end_layout
 
@@ -1160,6 +1173,7 @@ mysqldump
 status open
 
 \begin_layout Plain Layout
+
 sysconfig.inc.php
 \end_layout
 
@@ -1336,6 +1350,7 @@ ns can be found at:
 status open
 
 \begin_layout Plain Layout
+
 http://carsonified.com/blog/features/webapps/give-your-web-
 \end_layout
 
@@ -1350,6 +1365,7 @@ http://carsonified.com/blog/features/webapps/give-your-web-
 status open
 
 \begin_layout Plain Layout
+
 app-international-appeal/
 \end_layout
 
@@ -1368,6 +1384,7 @@ and in
 status open
 
 \begin_layout Plain Layout
+
 http://carsonified.com/blog/dev/give-your-web-app-international-
 \end_layout
 
@@ -1382,6 +1399,7 @@ http://carsonified.com/blog/dev/give-your-web-app-international-
 status open
 
 \begin_layout Plain Layout
+
 appeal-part-ii/
 \end_layout
 
@@ -1401,6 +1419,7 @@ Download poedit at
 status open
 
 \begin_layout Plain Layout
+
 http://www.poedit.net/
 \end_layout
 
@@ -1431,6 +1450,7 @@ Create a folder describing the "language" and the translation.
 status collapsed
 
 \begin_layout Plain Layout
+
 http://www.gnu.org/software/gettext
 \end_layout
 
@@ -1441,6 +1461,7 @@ http://www.gnu.org/software/gettext
 status collapsed
 
 \begin_layout Plain Layout
+
 /manual/gettext.html#Usual-Language-Codes
 \end_layout
 
@@ -1451,6 +1472,7 @@ and for the country code:
 status open
 
 \begin_layout Plain Layout
+
 http://www.gnu.org/software/
 \end_layout
 
@@ -1461,6 +1483,7 @@ http://www.gnu.org/software/
 status open
 
 \begin_layout Plain Layout
+
 gettext/manual/gettext.html#Country-Codes
 \end_layout
 
@@ -1535,6 +1558,7 @@ Tab "Project info":
 status open
 
 \begin_layout Plain Layout
+
 http://translate.sourceforge.net
 \end_layout
 
@@ -1545,6 +1569,7 @@ http://translate.sourceforge.net
 status collapsed
 
 \begin_layout Plain Layout
+
 /wiki/l10n/pluralforms
 \end_layout
 
@@ -1629,6 +1654,7 @@ inline false
 status open
 
 \begin_layout LyX-Code
+
 $available_languages [] = array ( 'xx_XX', _ ( 'NAMA BAHASA INGGRIS'), 'NAMA
  NATIVE Bahasa'); 
 \end_layout
@@ -3738,6 +3764,7 @@ Go to the site
 status open
 
 \begin_layout Plain Layout
+
 http://irspy.indexdata.com/
 \end_layout
 
@@ -3755,6 +3782,7 @@ http://irspy.indexdata.com/
 status open
 
 \begin_layout Plain Layout
+
 catalogue.abertay.ac.uk:10790/Voyager
 \end_layout
 
